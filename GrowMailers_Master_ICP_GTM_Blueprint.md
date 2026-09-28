@@ -48,6 +48,7 @@ The report refers to GrowMailers' two services by name throughout.
 | Element | What it tells you |
 |---|---|
 | **Summary** box at the start of each section | The main point in a few sentences. Reading only these gives a ten-minute overview. |
+| Client Profile at a Glance | Quick answers, with figures, to the key questions about a typical client: size, order value, lifetime value, acquisition cost, team and decision-maker |
 | Numbered subsections | The detail, checklists and reference tables the team uses day to day |
 | Grey note under a table | Where the numbers come from |
 | "Our estimate" | A calculation made by GrowMailers rather than a published figure |
@@ -55,6 +56,227 @@ The report refers to GrowMailers' two services by name throughout.
 
 ---
 
+
+# Client Profile at a Glance
+
+> **Summary:** This section answers the questions asked most often about GrowMailers' ideal clients: how big they are, what an order is worth, what a customer is worth over time, what it costs to win one, how many people work there and who decides. Each answer gives a short explanation followed by the figures. Figures cover the core client range ($3M to $20M a year) unless stated, "(est.)" marks our own calculations, and section numbers point to where the full detail sits.
+
+## Q1. How big are they?
+
+Our core clients make **$3M to $20M a year** from their own website, which is **$250k to $1.67M a month**, or roughly **3,600 to 23,800 orders a month**. Ascent also serves smaller brands ($1M to $3M) and larger ones ($20M to $50M+).
+
+| Client type | Yearly revenue | Monthly revenue | Orders per month (est.) |
+|---|---|---|---|
+| **L1: Entry** | $3M–$5M | $250k–$420k | 3,600–6,000 |
+| **L2: Core (sweet spot)** | $5M–$12M | $420k–$1.0M | 6,000–14,300 |
+| **L3: Scale** | $12M–$20M | $1.0M–$1.67M | 14,300–23,800 |
+
+*Orders estimated at a $70 average order. For example, a $5M beauty brand does about 6,100 orders a month (Section 7.4).*
+
+## Q2. What is their average order value (AOV)?
+
+A typical order is worth **about $70** in all four product types we target. Clothing brands, shown for comparison, average about $103.
+
+| Product type | Average order value |
+|---|---|
+| Beauty | $68.29 |
+| Supplements | $71.26 |
+| Food and drink | $69.87 |
+| Pet | $69.95 |
+| Clothing (for comparison) | $103.37 |
+
+*Triple Whale data, US direct-to-consumer brands, mid-2026 (Section 7.2).*
+
+## Q3. How much does it cost them to win a new customer (CAC)?
+
+Brands spend **about $29 to $45 on ads for every purchase**, and roughly **$43 to $67 for each brand-new customer**, because part of the ad spend goes on people who have bought before. Meta's ad prices rose 12% in a year, so this cost keeps climbing.
+
+| Product type | Ad cost per purchase | Cost per new customer (est.) |
+|---|---|---|
+| Beauty | $33.44 | About $50 |
+| Supplements | $44.81 | About $67 |
+| Food and drink | $28.96 | About $43 |
+| Pet | $32.68 | About $49 |
+| Clothing | $39.24 | About $59 |
+
+*Ad cost per purchase from Triple Whale. Cost per new customer applies the 1.5 times rule from Section 2.4.*
+
+## Q4. How much profit do they make on each order?
+
+After paying for ads, the **first order barely breaks even or loses money**. **Repeat orders earn about $17 to $47 each**, because the brand no longer pays ads to win that customer.
+
+| Product type | Profit on first order | Profit on each repeat order |
+|---|---|---|
+| Beauty | $5.49 | $38.93 |
+| Supplements | −$3.48 (a loss) | $41.33 |
+| Food and drink | −$11.49 (a loss) | $17.47 |
+| Pet | −$10.29 (a loss) | $22.39 |
+| Clothing | $7.27 | $46.51 |
+
+*Section 7.2. Margins are planning estimates; replace them with each brand's real numbers.*
+
+## Q5. What is a customer worth over time (LTV)?
+
+Lifetime value (LTV) is what one customer is worth to the brand over time. Over two years a typical customer spends **about $140 to $230** and leaves **about $20 to $80 of profit**. Supplement customers are the most valuable because they reorder roughly every 30 days.
+
+| Product type | Orders per customer (12 / 24 months) | Revenue per customer (12 / 24 months, est.) | Profit per customer (12 / 24 months) |
+|---|---|---|---|
+| Beauty | 1.6 / 2.1 | $109 / $143 | $29 / $48 |
+| Supplements | 2.2 / 3.0 | $157 / $214 | $46 / $79 |
+| Food and drink | 2.0 / 2.8 | $140 / $196 | $6 / $20 |
+| Pet | 2.3 / 3.3 | $161 / $231 | $19 / $41 |
+| Clothing | 1.4 / 1.7 | $145 / $176 | $26 / $40 |
+
+*Orders and profit from Section 7.3 (planning estimates). Revenue per customer = orders × average order value.*
+
+## Q6. How often do customers buy again?
+
+In the first year, the average customer places **1.4 to 2.3 orders**. Brands need a customer to buy **1.3 to 1.6 times** (beauty, supplements, clothing) or **2.2 to 2.5 times** (food, pet) just to earn back what it cost to win them, so repeat buying decides whether a brand makes money at all.
+
+| Measure | Figure |
+|---|---|
+| Orders per customer in the first year | 1.4 (clothing) to 2.3 (pet) |
+| Supplement reorder cycle | About every 30 days |
+| Purchases needed to recover the cost of a new customer | 1.3–1.6 (beauty, supplements, clothing); 2.2–2.5 (food, pet) |
+| Value of lifting the 12-month repeat rate from 25% to 30% | About $136,000 extra profit a year for an $8M beauty brand |
+
+*Sections 2.4, 2.5 and 7.3. Always check a brand's real repeat rate in its own Shopify data.*
+
+## Q7. How many people work there?
+
+Most core clients are **small companies of 8 to 40 people** with a **marketing team of 4 to 12**. Few have a dedicated email expert, and that gap is what Lhotse fills.
+
+| Yearly revenue | Whole company | Marketing team | Who runs email |
+|---|---|---|---|
+| $1M–$3M | 3–10 people | 2–3 | Founder or a freelancer |
+| $3M–$8M | 8–40 people (across $3M–$20M) | 4–6 | First email hire |
+| $8M–$20M | 8–40 people (across $3M–$20M) | 7–12 | Retention specialist |
+| $20M–$50M | 40–80+ people | 15–25 | Head of Retention and a team |
+
+*Sections 4.2 and 6.1. Example: a $7M supplement brand with 18 staff and a three-person marketing team (Section 4.6).*
+
+## Q8. Who makes the buying decision?
+
+Below $5M the **founder** decides. Between $5M and $20M a **marketing leader** signs, and above $20M **finance** also reviews the contract.
+
+| Yearly revenue | Who signs | Who else has a say |
+|---|---|---|
+| Under $5M | Founder | Usually no one else |
+| $5M–$20M | Head of Marketing or Head of Growth (a VP or CMO at the top end) | The retention specialist |
+| Above $20M | CMO or VP of Marketing | Finance reviews the contract |
+
+*Sections 4.3 and 6.2.*
+
+## Q9. How much do they spend on marketing and outside help?
+
+Smaller brands spend a **large share of revenue on marketing (30% to 45% under $5M)**, mostly on ads. Spending on outside agencies is **about 5% to 7% of revenue**. Hiring one email manager costs far more than Lhotse.
+
+| Item | Figure |
+|---|---|
+| Marketing spend, brands under $5M | 30%–45% of revenue |
+| Marketing spend, ten public consumer brands (median) | 13.3% of revenue |
+| Spend on outside agencies | About 5%–7% of revenue |
+| One US email marketing manager, fully loaded | $85k–$135k a year |
+| Lhotse, for comparison | $36k–$66k a year |
+
+*Sections 6.1 and 6.3.*
+
+## Q10. How big is their email list, and how much do they send?
+
+A core client has **40,000 to 250,000 active subscribers** and sends **250,000 to 1.5 million emails a month**. In an unmanaged list, **about half the subscribers are inactive**, yet the brand still pays Klaviyo for every one of them.
+
+| Yearly revenue | Active subscribers | Emails sent per month | Klaviyo bill per month |
+|---|---|---|---|
+| $1M–$3M | 10k–40k | 50k–250k | About $150–$600 |
+| $3M–$20M | 40k–250k | 250k–1.5M | About $600–$2,300 |
+| $20M–$50M+ | 250k–1M+ | 1.5M–8M+ | $2,300+ |
+
+*Sections 4.2 and 11.1. A typical unmanaged list is 20% engaged, 25% warm or cool, 50% inactive and 5% fake sign-ups. Klaviyo bills are our estimate from its price list; check current prices before quoting.*
+
+## Q11. How much of their revenue comes from email?
+
+A healthy brand earns **20% to 30% of its website revenue from email and SMS**. Under 8% means there is no real email program, and 8% to 20% means it is underdeveloped.
+
+| Client type | Email revenue a year (at 20%–30%) | Lhotse fee as a share of it |
+|---|---|---|
+| L1 ($3M–$5M) | $600k–$1.5M | 2.4%–7% |
+| L2 ($5M–$12M) | $1.0M–$3.6M | 1.2%–5.4% |
+| L3 ($12M–$20M) | $2.4M–$6.0M | 0.9%–2.8% |
+
+*Sections 4.3 and 9.1. Above 40% usually means the brand's reporting gives email too much credit.*
+
+## Q12. What must Lhotse deliver to pay for itself?
+
+Lhotse pays for itself once it creates enough **extra repeat orders each month** to cover its fee. For a $5M beauty brand that is only **1.3% to 2.3% of its monthly orders**. Food and pet need more orders because each one earns less.
+
+| Product type | Extra repeat orders a month to cover $3,000 | To cover $5,500 | To cover Ascent ($5,000 once) |
+|---|---|---|---|
+| Beauty | 78 | 142 | 129 in total |
+| Supplements | 73 | 134 | 121 in total |
+| Food and drink | 172 | 315 | 287 in total |
+| Pet | 134 | 246 | 224 in total |
+
+*Section 7.4.*
+
+## Q13. What tools do they use?
+
+Every client runs **Shopify (or Shopify Plus) and Klaviyo**. Bigger brands add paid tools for SMS, subscriptions, analytics and customer service, and each of these signals a larger budget.
+
+| Job | Common tools | Share of US Shopify stores using it |
+|---|---|---|
+| Online store | Shopify Plus (about $2,300–$2,500 a month) | 2.5% |
+| Email | Klaviyo (required) | 14.5% |
+| Text messages (SMS) | Postscript; Attentive for large brands | 1.7%; 0.58% |
+| Subscriptions | ReCharge | 2.1% |
+| Ad tracking | Triple Whale; Northbeam | 1.3%; 0.11% |
+| Customer service | Gorgias | 1.0% |
+
+*Store Leads, 1,179,951 live US Shopify stores, September 2026 (Section 3.2).*
+
+## Q14. What do they sell, and where are they?
+
+They sell products people **buy again and again: beauty, supplements, food and drink, and pet supplies**. About **4,500 qualified brands** exist in our six markets, two-thirds of them in the US. Winning well under 1% of them is enough for GrowMailers.
+
+| Country | Qualified brands (approx.) | Note |
+|---|---|---|
+| United States | 2,955 | Main market, all year |
+| United Kingdom | 643 | Best in January to March |
+| Canada | 389 | Strictest email laws |
+| Australia | 380 | Best in January to March and July to August |
+| New Zealand | 60 | Add-on to Australia |
+| Ireland | 51 | Add-on to the UK |
+
+*Sections 5.2 and 5.3.*
+
+## Q15. What problems are they facing?
+
+Their profit is being squeezed from several sides at once, and email is usually the cheapest fix. These are the problems that make them call us.
+
+| Problem | In figures |
+|---|---|
+| Ads cost more every year | Meta ad prices up 12% in a year |
+| First orders make little or no money | −$11.49 to +$7.27 profit on a first order |
+| Paying for people who never open | About half of an unmanaged list is inactive |
+| Stricter inbox rules | Gmail, Yahoo and Microsoft reject bulk email without SPF, DKIM and DMARC |
+| Hidden spam problems outside the US | Microsoft holds about a third of inboxes in the UK, Canada and Australia |
+| Thin email programs | Email below 20% of website revenue |
+
+*Sections 2, 7, 11, 12 and 13.*
+
+## Q16. When do they have money to spend?
+
+Brands pay for holiday stock in summer, so **cash is tightest in August and September** and **most available in January and February**. Budgets reset at different times in each country.
+
+| Market | New budget year starts | Best time to pitch Lhotse |
+|---|---|---|
+| United States | January | Best in January to February; good from March to August |
+| Canada | January | Steady from January to August (contacts must meet Canada's email law) |
+| UK and Ireland | January, some brands in April | Best in January to February; good from June to August |
+| Australia and New Zealand | July (Australia); often April (NZ) | Best in June to August; good in January to February |
+
+*Sections 8.1, 8.3 and 15.4. From mid-October to December every market is in its Black Friday freeze.*
+
+---
 
 # 1. Types of Online Stores and Which Ones We Target
 
