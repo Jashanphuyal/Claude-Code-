@@ -15,7 +15,7 @@ import urllib.request, urllib.error
 import openpyxl
 from openpyxl.styles import Font, PatternFill
 
-API = "https://app.fullenrich.com/api/v1"
+API = "https://app.fullenrich.com/api/v2"  # v1 is deprecated
 KEY = os.environ["FULLENRICH_API_KEY"]
 LEAD_TABS = ["Spam - Coaches & Consultants", "Spam - Ecom",
              "Promotions - Coaches & Consulta", "Promotions - Ecom"]
@@ -82,8 +82,8 @@ def load_leads(wb):
             dom, company = domain_of(r), (r[3] or "").strip()
             if not ((first and last and (dom or company)) or li):
                 continue
-            c = {"firstname": first, "lastname": last,
-                 "enrich_fields": ["contact.emails", "contact.personal_emails"],
+            c = {"first_name": first, "last_name": last,
+                 "enrich_fields": ["contact.work_emails", "contact.personal_emails"],
                  "custom": {"key": f"{tab}|{r[0]}"}}
             if dom: c["domain"] = dom
             if company: c["company_name"] = company
@@ -92,19 +92,34 @@ def load_leads(wb):
     return leads
 
 
+EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[a-z]{2,}$", re.I)
+
+
 def extract_emails(item):
-    """Every email in a result item, with its type and status."""
-    out, contact = [], item.get("contact") or {}
-    for field, kind in (("emails", "Business"), ("personal_emails", "Personal")):
-        for e in contact.get(field) or []:
-            if e.get("email"):
-                out.append((e["email"].strip().lower(), kind, e.get("status") or ""))
-    for field, kind in (("most_probable_email", "Business"),
-                        ("most_probable_personal_email", "Personal")):
-        v = contact.get(field)
-        if v and v.lower() not in {x[0] for x in out}:
-            out.append((v.strip().lower(), kind, contact.get(field + "_status") or ""))
-    return out
+    """Every email anywhere in a result item, with type (Personal/Business) and status.
+
+    Walks the whole item so it works whatever the v2 response nesting is; an
+    email counts as Personal when any enclosing key mentions 'personal'.
+    """
+    out = {}
+
+    def walk(node, personal, status):
+        if isinstance(node, dict):
+            st = node.get("status") if isinstance(node.get("status"), str) else status
+            for k, v in node.items():
+                if k == "custom":
+                    continue
+                walk(v, personal or "personal" in k.lower(), st)
+        elif isinstance(node, list):
+            for v in node:
+                walk(v, personal, status)
+        elif isinstance(node, str) and EMAIL_RE.match(node.strip()):
+            em = node.strip().lower()
+            if em not in out or (not out[em][1] and status):
+                out[em] = ("Personal" if personal else "Business", status or "")
+
+    walk(item, False, "")
+    return [(em, kind, st) for em, (kind, st) in out.items()]
 
 
 def main(src, dst):
@@ -119,13 +134,13 @@ def main(src, dst):
     for i in range(0, len(todo), BATCH):
         chunk = todo[i:i + BATCH]
         resp = call("POST", "/contact/enrich/bulk",
-                    {"name": f"Sept 2026 spam-promo {i // BATCH + 1}", "datas": chunk})
-        eid = resp["enrichment_id"]
+                    {"name": f"Sept 2026 spam-promo {i // BATCH + 1}", "data": chunk})
+        eid = resp.get("enrichment_id") or resp.get("id")
         print(f"batch {i // BATCH + 1}: {len(chunk)} leads, id {eid}")
         while True:
             time.sleep(15)
             res = call("GET", f"/contact/enrich/bulk/{eid}")
-            if res.get("status") in ("FINISHED", "CANCELED", "CREDITS_INSUFFICIENT", "RATE_LIMIT", "UNKNOWN"):
+            if str(res.get("status", "")).upper() in ("FINISHED", "COMPLETED", "DONE", "CANCELED", "CANCELLED", "FAILED", "CREDITS_INSUFFICIENT", "RATE_LIMIT", "UNKNOWN"):
                 break
         print("  status:", res.get("status"))
         raw[eid] = {"keys": [c["custom"]["key"] for c in chunk], "result": res}
@@ -138,7 +153,7 @@ def main(src, dst):
     # key -> list of (email, type, status), role accounts removed
     found, roles_dropped = {}, 0
     for res in raw.values():
-        items = res["result"].get("datas") or res["result"].get("data") or []
+        items = res["result"].get("data") or res["result"].get("datas") or []
         for item in items:
             key = (item.get("custom") or {}).get("key")
             for em, kind, status in extract_emails(item):
