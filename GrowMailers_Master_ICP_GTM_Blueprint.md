@@ -4,143 +4,46 @@
 
 **Prepared for:** Shardul Phuyal, GrowMailers
 
-**Version:** 2.0 — replaces the earlier report from 27 September 2026
+**Version:** 2.0
 
 **Date:** 28 September 2026
 
 **For internal use only**
 
-> **How to read this.** Every section starts with a "bottom line" — one short paragraph that gives you the main point. If you only have ten minutes, read those. The rest of each section has the tables, step-by-step checklists and extra detail the team uses daily. All numbers come from named public sources as of September 2026 — the US Census Bureau, Store Leads, Klaviyo, and others. When we calculated something ourselves, we say so.
+> **How to read this.** Every section starts with a "bottom line", one short paragraph that gives you the main point. If you only have ten minutes, read those. The rest of each section has the tables, step-by-step checklists and extra detail the team uses daily. All numbers come from named public sources as of September 2026, the US Census Bureau, Store Leads, Klaviyo, and others. When we calculated something ourselves, we say so.
 
 ---
 
-### Contents
+### Table of Contents
 
-1. What GrowMailers Does and Why It Works
-2. Types of Online Stores and Which Ones We Target
-3. Why Ad Costs Are Killing Profit (and How Email Fixes It)
-4. How to Read a Store's Tech Setup to Know If It's a Good Fit
-5. Who Our Perfect Clients Are
-6. How Many Potential Clients Exist and Where They Are
-7. Who Makes the Buying Decision and What They Care About
-8. How Much Money Each Type of Product Makes
-9. When to Sell (the Business Calendar)
-10. How to Measure Whether Email is Working
-11. Automated Emails vs. One-Off Campaigns
-12. Keeping the Email List Clean
-13. Email Security Settings Explained Simply
-14. How to Test Whether Emails Actually Reach the Inbox
-15. The Shopping Holiday Calendar
-16. When to Pitch Which Service
-17. Email Marketing Laws by Country
-18. How to Find Clients, Audit Their Setup, and Close the Sale
-
-Appendices: A. Word List. B. Sources.
-
+| Section | Title |
+|---|---|
+| 1 | Types of Online Stores and Which Ones We Target |
+| 2 | Why Ad Costs Are Killing Profit (and How Email Fixes It) |
+| 3 | How to Read a Store's Tech Setup to Know If It's a Good Fit |
+| 4 | Who Our Perfect Clients Are |
+| 5 | How Many Potential Clients Exist and Where They Are |
+| 6 | Who Makes the Buying Decision and What They Care About |
+| 7 | How Much Money Each Type of Product Makes |
+| 8 | When to Sell (the Business Calendar) |
+| 9 | How to Measure Whether Email Is Working |
+| 10 | Automated Emails vs. One-Off Campaigns |
+| 11 | Keeping the Email List Clean |
+| 12 | Email Security Settings Explained Simply |
+| 13 | How to Test Whether Emails Actually Reach the Inbox |
+| 14 | The Shopping Holiday Calendar |
+| 15 | When to Pitch Which Service |
+| 16 | Email Marketing Laws by Country |
+| 17 | How to Find Clients, Audit Their Setup, and Close the Sale |
+| A | Word List |
+| B | Sources |
 ---
 
-# 1. What GrowMailers Does and Why It Works
+# 1. Types of Online Stores and Which Ones We Target
 
-> **Bottom line:** Online brands today barely make any money from the first sale. All their profit comes from the second, third, and fourth times a customer buys. Email and text message (SMS) are the cheapest way to bring customers back. GrowMailers sells two services that help with this. **Ascent** is a $5,000 one-time fix that makes sure a brand's emails actually reach the inbox. **Lhotse** is a $3,000–$5,500 per month service that runs the whole email program for the brand. The best clients use Shopify and Klaviyo and sell products people buy over and over. Lhotse is for brands making $3M–$20M a year. Ascent is for brands making $1M–$50M+.
+> **Bottom line:** Whether a brand actually owns the contact information for its customers is what matters most, not how big the brand is. A $30M Amazon seller is a worse prospect than a $4M Shopify brand, because the Amazon seller cannot email most of its buyers. Dropshippers and print-on-demand stores are also excluded, even though they technically have an email list. They do not have the profit margin, product quality, or staying power to benefit from our work.
 
-## 1.1 The problem we solve
-
-Three things are squeezing online brands right now.
-
-**Advertising costs more every year.** Meta (Facebook and Instagram) raised its average ad price by 12% between mid-2025 and mid-2026. It has gone up 6–14% every three months since mid-2024. When ads cost more, getting each new customer costs more.
-
-**Shipping and products cost more.** New import taxes (tariffs), higher shipping fees, and the end of tax-free entry for small packages into the US all cut into the profit margin. About 4 out of 5 brands said the 2025 tariff changes raised their costs.
-
-**Getting emails into the inbox is harder.** Gmail, Yahoo, and Microsoft now block bulk emails if the brand's security settings are wrong. Every brand we target sends enough email to be affected by these new rules.
-
-The result: brands only make real money when customers come back and buy again. Sending someone back to buy again via email costs almost nothing — a fraction of a cent per email. Getting that same person to buy for the first time through ads costs anywhere from $30 to $45 per purchase.
-
-Most brands making $3M–$20M are still running the same basic email setup they built years ago. Their automatic email sequences are thin. They blast campaigns to their whole list instead of just active customers. They pay their email platform (Klaviyo) every month to store tens of thousands of subscribers who never open anything. And nobody has checked whether their emails are getting blocked since the security rules changed.
-
-GrowMailers fixes that.
-
-## 1.2 The two services
-
-| | **Ascent** | **Lhotse** |
-|---|---|---|
-| What it is | A one-time technical repair job | A monthly service that runs everything |
-| Price | $5,000 | $3,000–$5,500 per month |
-| What we do | Fix email security settings; get the brand off shared sending servers; clean the list; remove fake subscribers; repair inbox delivery; set up a warm-up plan | Write and schedule emails and texts; build automated sequences; clean the list; design emails; write copy; test what works; send reports |
-| How long | 2–3 weeks of fixing, then up to 10 weeks of careful ramp-up if a new sending address is needed | Ongoing, starting after 2–3 weeks of setup |
-| Best for | Any brand making $1M–$50M+ | Brands making $3M–$20M |
-| When a brand calls us | Their emails keep bouncing, landing in spam, or their Klaviyo bill keeps going up | Email revenue is flat, they just lost their email person, a previous agency disappointed them |
-| How we know it worked | Emails pass security checks; spam rate below 0.1%; fewer bounced emails; inbox rate improves | Email's share of website revenue goes up; more revenue per email sent; holdout tests confirm real lift (explained in Section 10) |
-
-Ascent is a repair project with a clear finish line. It is usually how we first get into a new account — we find a problem, fix it, and then the brand trusts us with bigger work.
-
-We recommend pricing Lhotse in three tiers based on how much we do:
-
-| Package | Monthly price | Best for | What's included |
-|---|---|---|---|
-| Lhotse Core | $3,000–$3,500 | $3M–$6M brands | All automated sequences built and running; 2–3 targeted campaigns per week; monthly report; list cleaning |
-| Lhotse Growth | $3,500–$4,500 | $6M–$12M brands | Everything in Core, plus a managed SMS program, regular tests, reorder reminder emails, and quarterly lift tests |
-| Lhotse Scale | $4,500–$5,500 | $12M–$20M brands | Everything in Growth, plus website conversion work, smarter list segmentation, multi-country calendars, and a weekly strategy call |
-
-*This is a suggested structure — GrowMailers should confirm it matches how they actually package the work.*
-
-```
-  FREE AUDIT ──► ASCENT PROJECT ──► 30-DAY CHECK-IN ──► LHOTSE PROPOSAL
-  (15 min)        ($5,000)           (show them results)   ($3,000–5,500/mo)
-        └── OR go straight to Lhotse if the technical setup is already fine ──┘
-```
-
-Start with Ascent when the free audit finds security or delivery problems — nobody should be scaling email on a broken setup. Start with Lhotse when everything works technically but the email program is thin. We also recommend giving the client a credit off their first Lhotse month if they sign up within 60 days of Ascent finishing. This turns Ascent into a paid trial.
-
-## 1.3 How to justify the price
-
-**Compared to hiring someone.** According to Glassdoor, a US Email Marketing Manager earns $66,000–$107,000 base salary. With taxes, benefits, and equipment, the real cost is about $85,000–$135,000 per year. That buys one person with one set of skills, who takes weeks to get up to speed, and who can leave at any time. Lhotse costs $36,000–$66,000 per year and brings a whole team — a strategist, a designer, a copywriter, and a delivery expert — from day one.
-
-**Compared to email revenue.** Healthy brands earn 20–30% of their website revenue from email and texts:
-
-| Brand's annual revenue | Email revenue (at 20–30%) | Lhotse as a share of email revenue | Is it worth it? |
-|---|---|---|---|
-| $1.5M | $300k–$450k | 8–22% | Too expensive. Sell Ascent instead. |
-| $3M | $600k–$900k | 4–11% | It works |
-| $5M | $1.0M–$1.5M | 2.4–6.6% | Comfortable |
-| $10M | $2.0M–$3.0M | 1.2–3.3% | Sweet spot |
-| $20M | $4.0M–$6.0M | 0.6–1.7% | Very easy to justify |
-
-**Compared to the cost of a problem.** A $5M brand earning $1M a year from email makes about $19,000 a week from it. If a security problem sends 25% of their emails to spam, they lose about $4,800 a week — and much more during Black Friday week. Ascent pays for itself in one to two weeks of fixed delivery.
-
-## 1.4 Why the second sale is where the money is
-
-Here is what happens to the money on a typical clothing order, using real industry data:
-
-```
-  FIRST SALE (customer found through ads)          SECOND SALE (customer comes back via email)
-  Order value             $103.37                  Order value             $103.37
-  − Product cost (33.5%)  −$34.63                  − Product cost (33.5%)  −$34.63
-  − Shipping and fees     −$23.88                  − Shipping and fees     −$23.88
-  − Ad cost               −$39.24                  − Email cost             ≈ −$0.10
-  ════════════════════════════════                  ════════════════════════════════
-  PROFIT LEFT              ≈ $5.62                  PROFIT LEFT              ≈ $44.76
-```
-
-The first sale buys the customer. The second sale earns the profit. Here, the second sale is worth about **8 times** more profit than the first. And every year that ad costs rise, that gap gets bigger.
-
-We are not selling "better emails." We are selling more orders that cost the brand almost nothing to generate.
-
-## 1.5 Our six promises to ourselves
-
-1. **Only sell to brands that own their customer list.** They must use Shopify (or Shopify Plus) and Klaviyo, own their products, and sell mainly through their own website.
-2. **Choose the right service based on facts.** Start with Ascent when we find technical problems. Start with Lhotse when the brand is $3M–$20M and their email program is underbuilt.
-3. **Focus on four product types.** Beauty and skincare, health supplements, food and drink, and pet supplies.
-4. **Respect the selling calendar.** Never pitch a monthly retainer in the weeks before Black Friday.
-5. **Prove results with real tests, not guesswork.** Use holdout tests (explained in Section 10), not just platform numbers.
-6. **Keep our own emails clean.** A company that fixes email delivery problems cannot afford to have its own emails blocked.
-
----
-
-# 2. Types of Online Stores and Which Ones We Target
-
-> **Bottom line:** Whether a brand actually owns the contact information for its customers is what matters most — not how big the brand is. A $30M Amazon seller is a worse prospect than a $4M Shopify brand, because the Amazon seller cannot email most of its buyers. Dropshippers and print-on-demand stores are also excluded, even though they technically have an email list. They do not have the profit margin, product quality, or staying power to benefit from our work.
-
-## 2.1 Types of online business and whether we can help
+## 1.1 Types of online business and whether we can help
 
 | Business type | What it means | Can they email their customers? | Ascent fit | Lhotse fit |
 |---|---|---|---|---|
@@ -158,7 +61,7 @@ The word "e-commerce" covers any online sale, from Amazon down to a one-person S
 
 A survey by ShipBob in 2026 found 65% of brands say their own website is their main sales channel, 20% say Amazon, and 12% say wholesale or retail stores. Since 86% of brands sell through more than one channel, **always measure a potential client by their own website revenue only**. Amazon and wholesale sales never go through Klaviyo, so they do not count.
 
-## 2.2 Why we skip dropshippers and print-on-demand
+## 1.2 Why we skip dropshippers and print-on-demand
 
 Email works best when customers run out of a product they love and trust the brand. Dropshipped generic products do not build that kind of loyalty. These businesses also:
 - Do not have enough profit margin to pay for our services
@@ -167,7 +70,7 @@ Email works best when customers run out of a product they love and trust the bra
 
 They are easy to spot and skip. Printful and Printify are two of the top ten apps on US Shopify stores. An app called Fourthwall is used by 7% of US Shopify stores that also have Klaviyo.
 
-## 2.3 Quick decision checklist — is this store worth pursuing?
+## 1.3 Quick decision checklist, is this store worth pursuing?
 
 ```
 START → Is the brand's own website their main way to sell?
@@ -182,35 +85,35 @@ START → Is the brand's own website their main way to sell?
                                           ├─ Omnisend → HOLD (never make them switch)
                                           ├─ Mailchimp → NURTURE (introduce our work)
                                           └─ YES → Is it beauty, supplements, food, or pets?
-                                                     ├─ YES → QUALIFIED. Score it (Section 4).
+                                                     ├─ YES → QUALIFIED. Score it (Section 3).
                                                      └─ NO → SECONDARY. Only if repeat buying is visible.
 ```
 
-## 2.4 Tricky cases
+## 1.4 Tricky cases
 
-- **A $25M brand with 60% of sales on Amazon.** Their website makes $10M — that qualifies for Lhotse. Use only the website number, and expect email to cover a smaller share of revenue since Amazon buyers never joined the email list.
-- **A brand with physical stores.** Great Ascent candidate — more sending tools (like a store POS system) mean more security gaps to fix. For Lhotse, check if in-store buyers are added to Klaviyo at checkout.
+- **A $25M brand with 60% of sales on Amazon.** Their website makes $10M, that qualifies for Lhotse. Use only the website number, and expect email to cover a smaller share of revenue since Amazon buyers never joined the email list.
+- **A brand with physical stores.** Great Ascent candidate, more sending tools (like a store POS system) mean more security gaps to fix. For Lhotse, check if in-store buyers are added to Klaviyo at checkout.
 - **A company that owns several brands.** Each brand has its own email domain and list, so each one is a separate Ascent project. Pitch the whole group, but price each brand separately.
 - **A brand where most revenue is subscriptions.** Subscriptions do not count as "email revenue" in Klaviyo reporting, so email looks weaker than it really is. Judge by cancelled subscription prevention and cross-selling instead.
-- **A Shopify Plus store with a custom build.** Website scanning tools might not detect their apps. Confirm by signing up for their email list and reading the technical headers in the email you receive (Section 18 explains how).
+- **A Shopify Plus store with a custom build.** Website scanning tools might not detect their apps. Confirm by signing up for their email list and reading the technical headers in the email you receive (Section 17 explains how).
 
 ---
 
-# 3. Why Ad Costs Are Killing Profit (and How Email Fixes It)
+# 2. Why Ad Costs Are Killing Profit (and How Email Fixes It)
 
-> **Bottom line:** Online shopping keeps growing, but the cost of getting each new customer is growing faster than the profit that customer brings on their first order. At the current rate of ad price increases, the average clothing brand's first sale will lose money within two years. Email keeps customers coming back at almost no cost — and that is what GrowMailers sells.
+> **Bottom line:** Online shopping keeps growing, but the cost of getting each new customer is growing faster than the profit that customer brings on their first order. At the current rate of ad price increases, the average clothing brand's first sale will lose money within two years. Email keeps customers coming back at almost no cost, and that is what GrowMailers sells.
 
-## 3.1 How big is online shopping?
+## 2.1 How big is online shopping?
 
-The US Census Bureau reported $340.2 billion in US online shopping in just the second quarter of 2026 — that is 17.1% of all retail and 12.2% more than the same quarter the year before. The full year 2025 was about $1.23 trillion.
+The US Census Bureau reported $340.2 billion in US online shopping in just the second quarter of 2026, that is 17.1% of all retail and 12.2% more than the same quarter the year before. The full year 2025 was about $1.23 trillion.
 
 Brands that sell direct to consumers (cutting out retailers and selling directly to shoppers) make up about 19% of US online shopping, roughly $234 billion. That share is expected to stay about the same through 2028.
 
 But there is a catch: some of that growth comes from higher prices due to tariffs and inflation, not more units sold. Brands are making more dollars, but not necessarily making more profit.
 
-## 3.2 Why ads keep getting more expensive
+## 2.2 Why ads keep getting more expensive
 
-Meta (Facebook/Instagram) reported a 12% rise in its average ad price in mid-2026, while the number of times an ad was shown went up 14%. If conversion rates stay the same, that means brands spend about 12% more to get each purchase. Google advertising works the same way — it is an auction, and prices keep going up.
+Meta (Facebook/Instagram) reported a 12% rise in its average ad price in mid-2026, while the number of times an ad was shown went up 14%. If conversion rates stay the same, that means brands spend about 12% more to get each purchase. Google advertising works the same way, it is an auction, and prices keep going up.
 
 Here is what happens to a clothing brand's profit per first order if ad costs keep rising at 12% a year:
 
@@ -225,13 +128,13 @@ Here is what happens to a clothing brand's profit per first order if ad costs ke
 
 This does not cause an immediate crisis. The first order just earns a little less money each month, until quietly it starts losing money. Brands that already earn profit from repeat customers can handle this. Brands that do not will find their growth plan stops working.
 
-## 3.3 Import taxes (tariffs) and higher costs
+## 2.3 Import taxes (tariffs) and higher costs
 
 Import rules changed several times in 2026. The US paused duty-free entry (where small packages below $800 came in without taxes) and is ending it permanently on 1 July 2027. Brands that make products overseas now pay higher import taxes. Brands in Canada, the UK, and Australia that ship to US customers now face duties they did not pay before.
 
 Several DTC businesses closed in 2025 because of this combination: tariffs, inflation, higher ad costs, and less investment money available.
 
-## 3.4 The cost of getting a new customer vs. keeping one
+## 2.4 The cost of getting a new customer vs. keeping one
 
 There are two ways to measure ad spend per customer:
 
@@ -248,17 +151,17 @@ There are two ways to measure ad spend per customer:
 
 In beauty, supplements, and clothing, a brand needs about 1.3–1.6 sales to recover the cost of getting that customer. In food and pet, it takes 2.2–2.5 sales. **In every product type we target, the brand needs customers to come back.**
 
-## 3.5 Why getting customers back is so profitable
+## 2.5 Why getting customers back is so profitable
 
 Getting customers back (called "retention") earns more money through three levers:
 
-1. **Repeat rate** — what percentage of buyers come back at all
-2. **Frequency** — how often they buy
-3. **Profit per repeat order** — bundles, upsells, and not giving away unnecessary discounts
+1. **Repeat rate**, what percentage of buyers come back at all
+2. **Frequency**, how often they buy
+3. **Profit per repeat order**, bundles, upsells, and not giving away unnecessary discounts
 
-Example: A $8M beauty brand gets 50,000 new customers a year. If their 12-month repeat rate goes from 25% to 30%, that is 2,500 more returning customers. At 1.4 orders each and about $39 profit per order, that is roughly **$136,000 of extra profit per year** — from one improvement. That is 2–4 times the annual cost of Lhotse.
+Example: A $8M beauty brand gets 50,000 new customers a year. If their 12-month repeat rate goes from 25% to 30%, that is 2,500 more returning customers. At 1.4 orders each and about $39 profit per order, that is roughly **$136,000 of extra profit per year**, from one improvement. That is 2–4 times the annual cost of Lhotse.
 
-## 3.6 How to talk about this with clients
+## 2.6 How to talk about this with clients
 
 - **Talk about profit, not email open rates.** "Orders you don't pay Facebook for" is what founders and finance people care about.
 - **Compare Lhotse to buying the same orders through ads.** At a $40 average ad cost per purchase, 150 extra repeat orders a month would cost $6,000 in ad spend. Lhotse is the same price.
@@ -266,11 +169,11 @@ Example: A $8M beauty brand gets 50,000 new customers a year. If their 12-month 
 
 ---
 
-# 4. How to Read a Store's Tech Setup to Know If It's a Good Fit
+# 3. How to Read a Store's Tech Setup to Know If It's a Good Fit
 
-> **Bottom line:** The apps a brand uses on their website tell us their size, budget, and likely problems — before we ever talk to them. Shopify plus Klaviyo is the minimum requirement. When a brand also uses paid growth tools like Attentive or Northbeam, that signals a larger brand with a real retention budget. We use these signals to give each prospect two scores: a **Lhotse Fit Score** (how good a Lhotse client they would be) and an **Ascent Urgency Score** (how badly their email delivery needs fixing).
+> **Bottom line:** The apps a brand uses on their website tell us their size, budget, and likely problems, before we ever talk to them. Shopify plus Klaviyo is the minimum requirement. When a brand also uses paid growth tools like Attentive or Northbeam, that signals a larger brand with a real retention budget. We use these signals to give each prospect two scores: a **Lhotse Fit Score** (how good a Lhotse client they would be) and an **Ascent Urgency Score** (how badly their email delivery needs fixing).
 
-## 4.1 What tools DTC brands use
+## 3.1 What tools DTC brands use
 
 ```
  ┌──────────────────────────────────────────────────────────────────────────┐
@@ -285,12 +188,12 @@ Example: A $8M beauty brand gets 50,000 new customers a year. If their 12-month 
    subscriptions) is another one we need to check in an Ascent audit.
 ```
 
-## 4.2 What each tool tells us
+## 3.2 What each tool tells us
 
 | Tool | How many US Shopify stores use it | What it signals | What we say in our pitch |
 |---|---|---|---|
 | **Shopify Plus** | 2.5% | Strong signal of a bigger brand (fees alone cost $27,600+/yr, so this is almost always a $1M+ brand) | Good fit for both services |
-| **Klaviyo** | 14.5% | Required — this is the gate | Both |
+| **Klaviyo** | 14.5% | Required, this is the gate | Both |
 | **Attentive** | 0.58% | Large brand, enterprise-level, big SMS budget | Ascent; Lhotse Scale |
 | **Northbeam** | 0.11% | Large ad budget, team that cares about measurement | Lead with real lift results |
 | **Postscript** | 1.7% | Running SMS, has a retention budget | Lhotse Growth |
@@ -298,20 +201,20 @@ Example: A $8M beauty brand gets 50,000 new customers a year. If their 12-month 
 | **Triple Whale** | 1.3% | Tracks all marketing spend carefully | Frame results as "lower blended marketing cost" |
 | **Gorgias** | 1.0% | Has a customer service team sending from the brand domain | Check email security settings on support emails |
 | **Mailchimp** | 5.8% | Rarely a serious email program | Nurture gently |
-| **Omnisend alone** | 2.2% | Often a deliberate choice | Hold — never push them to switch platforms |
-| **Printful / Printify / Fourthwall** | Top-10 apps | Print-on-demand — skip | Skip |
+| **Omnisend alone** | 2.2% | Often a deliberate choice | Hold, never push them to switch platforms |
+| **Printful / Printify / Fourthwall** | Top-10 apps | Print-on-demand, skip | Skip |
 
 *Counts from Store Leads data, 1,179,951 live US Shopify stores, September 2026.*
 
 Three important platform facts:
 
 1. **Klaviyo is growing fast.** Revenue grew 26% in mid-2026. Brands paying Klaviyo more than $50,000/year grew 36%. Bigger brands are investing heavily in email.
-2. **Shopify rewrites the email sender** when a brand has no security record (DMARC) set up. The email shows up to customers as being from "shopifyemail.com" instead of the brand's domain — this is a clear sign the brand needs Ascent.
+2. **Shopify rewrites the email sender** when a brand has no security record (DMARC) set up. The email shows up to customers as being from "shopifyemail.com" instead of the brand's domain, this is a clear sign the brand needs Ascent.
 3. **Owners love Klaviyo's power but hate the bill.** GrowMailers sells the expertise to make Klaviyo worth paying for. We never push them to switch.
 
-## 4.3 How to score a prospect
+## 3.3 How to score a prospect
 
-### Lhotse Fit Score (out of 100) — "How good a Lhotse client would this be?"
+### Lhotse Fit Score (out of 100), "How good a Lhotse client would this be?"
 
 ```
   Score = Platform (0–20) + Size (0–30) + Tools they use (0–20) +
@@ -331,7 +234,7 @@ Three important platform facts:
 | **Email gaps** (max 15, from audit) | Only one welcome email or none +5; blasting full list more than 4x/week +4; no browse-abandonment email +3; no post-purchase or reorder reminder +3 | up to 15 |
 | **Deductions** | Registered business agent address −20; hired email agency in last 6 months −10; dropshipper or print-on-demand → skip | |
 
-### Ascent Urgency Score (out of 100) — "How badly does their email delivery need fixing?"
+### Ascent Urgency Score (out of 100), "How badly does their email delivery need fixing?"
 
 | What we measure | Criteria | Points |
 |---|---|---|
@@ -356,7 +259,7 @@ Three important platform facts:
               └──────────────────────┴──────────────────────┘
 ```
 
-## 4.4 Always verify before reaching out
+## 3.4 Always verify before reaching out
 
 Tech databases can be wrong and miss some setups. Before reaching out to any prospect, confirm by hand:
 - Klaviyo is live (sign up for their list and check the email you receive)
@@ -365,15 +268,15 @@ Tech databases can be wrong and miss some setups. Before reaching out to any pro
 
 A wrong signal leads to a wrong pitch. 
 
-**Australia has the highest rate of Klaviyo use** among the six countries we target — 23.6% of their Shopify stores use Klaviyo, compared to 14.5% in the US. Australian and UK brands tend to be more experienced, so lead with delivery depth and measurement rather than basics.
+**Australia has the highest rate of Klaviyo use** among the six countries we target, 23.6% of their Shopify stores use Klaviyo, compared to 14.5% in the US. Australian and UK brands tend to be more experienced, so lead with delivery depth and measurement rather than basics.
 
 ---
 
-# 5. Who Our Perfect Clients Are
+# 4. Who Our Perfect Clients Are
 
 > **Bottom line:** Our ideal client is a Shopify or Shopify Plus brand using Klaviyo that owns its products and sells mainly through its own website, in beauty, supplements, food, or pets. **Lhotse** targets brands making $3M–$20M per year. That is the size where email earns $600k–$6M per year, and a $36k–$66k annual retainer makes more sense than hiring a $70k–$100k+ employee. **Ascent** targets brands making $1M–$50M+, including large brands with in-house teams who need a specialist repair job.
 
-## 5.1 The entry requirements (must have ALL of these)
+## 4.1 The entry requirements (must have ALL of these)
 
 | Requirement | What it means | How we check |
 |---|---|---|
@@ -382,10 +285,10 @@ A wrong signal leads to a wrong pitch.
 | Owns their email list | Their own website is their main sales channel | Look at the site; Amazon is not the primary "buy" button |
 | Owns their products | Makes or sells branded products (not drop-shipped generics) | No dropshipping apps on their store; branded product pages |
 | Minimum revenue | $1M+/year for Ascent, or the minimum for their product type for Lhotse (see table below) | Store Leads estimated monthly sales |
-| Location | US, UK, Canada, Australia, Ireland, or New Zealand — confirmed as their real base | Check their address, phone, founder's LinkedIn, and shipping origin |
+| Location | US, UK, Canada, Australia, Ireland, or New Zealand, confirmed as their real base | Check their address, phone, founder's LinkedIn, and shipping origin |
 | Legal contact | We have a legal way to reach a decision-maker | Record where we found the contact |
 
-## 5.2 Ascent client tiers (all technical repair jobs)
+## 4.2 Ascent client tiers (all technical repair jobs)
 
 | | **A1: Small brand** | **A2: Growing brand** | **A3: Large brand** |
 |---|---|---|---|
@@ -396,9 +299,9 @@ A wrong signal leads to a wrong pitch.
 | Emails sent per month | 50k–250k | 250k–1.5M | 1.5M–8M+ |
 | Who signs the contract | Founder | Founder (under $5M); Head of Marketing above | CMO or VP; finance reviews |
 | Common reason for calling | Shopify is rewriting their sender; shared Klaviyo domain; fake subscribers; rising bill | Emails landing in Microsoft spam; sudden bounce spike; worried about Black Friday | Moving to a new sending domain; enforcing security settings; recovering from an incident |
-| How we pitch it | "Fix the foundation once, for under 0.5% of revenue" | "Protect the channel that earns you $1M+ a year" | "A specialist repair your team can hand off — no disruption to sending" |
+| How we pitch it | "Fix the foundation once, for under 0.5% of revenue" | "Protect the channel that earns you $1M+ a year" | "A specialist repair your team can hand off, no disruption to sending" |
 
-## 5.3 Lhotse client tiers (monthly retainer)
+## 4.3 Lhotse client tiers (monthly retainer)
 
 | | **L1: Entry** | **L2: Core (sweet spot)** | **L3: Scale** |
 |---|---|---|---|
@@ -414,7 +317,7 @@ A wrong signal leads to a wrong pitch.
 
 **Above $20M:** These brands usually have in-house retention teams. Ascent is the right entry point.
 
-**Revenue floors by product type** (from the profit data in Section 8):
+**Revenue floors by product type** (from the profit data in Section 7):
 
 | Product type | Minimum revenue for Lhotse | Reason |
 |---|---|---|
@@ -425,14 +328,14 @@ A wrong signal leads to a wrong pitch.
 
 A food or pet brand with unusually large orders (above about $90 average) or a strong subscription base can qualify at $3M.
 
-## 5.4 Why these four product types
+## 4.4 Why these four product types
 
 US Klaviyo users are more concentrated in these categories than the average Shopify store:
 - Beauty and fitness: 12.8% of Klaviyo stores vs 10.9% of all Shopify stores
 - Food and drink: 8.8% vs 7.1%
 - Health: 7.3% vs 4.4%
 
-The key is that customers **run out of the product and buy again** — this is what makes email so valuable.
+The key is that customers **run out of the product and buy again**, this is what makes email so valuable.
 
 | Product type | Typical time between reorders | Best automated email sequences | Watch out for |
 |---|---|---|---|
@@ -443,9 +346,9 @@ The key is that customers **run out of the product and buy again** — this is w
 
 *Reorder timing is a planning estimate. Always replace with the brand's own average days between orders.*
 
-Clothing is the largest category on Shopify (29.1% of US stores) and is a secondary target. It qualifies when repeat buying is visible — basics, uniforms, or restockable essentials.
+Clothing is the largest category on Shopify (29.1% of US stores) and is a secondary target. It qualifies when repeat buying is visible, basics, uniforms, or restockable essentials.
 
-## 5.5 Who to skip
+## 4.5 Who to skip
 
 | Why we skip them | How to spot them | What to do |
 |---|---|---|
@@ -460,21 +363,21 @@ Clothing is the largest category on Shopify (29.1% of US stores) and is a second
 | Canada or UK brand with only a personal Gmail address | Contact data shows a Gmail | Do not cold email |
 | Hired an email agency in the last 6 months | Agency credited in emails or posts | Nurture; revisit in 9–12 months |
 
-## 5.6 What our perfect Lhotse client looks like
+## 4.6 What our perfect Lhotse client looks like
 
 *This is an example, not a real brand.* A $7M health supplement brand based in Austin, Texas, on Shopify Plus. 85% of revenue comes from their own website. They have 18 staff and a three-person marketing team led by a Head of Growth. They use Klaviyo, Postscript, ReCharge, Triple Whale, and Gorgias.
 
 Their email list has 95,000 people in it, but only about 35,000 have clicked or bought something in the last six months. Their welcome email sequence is only two emails long. They have no reorder reminder email, even though 60% of their revenue comes from 30-day products. Email drives 14% of their website revenue.
 
-**This brand scores about 85 on the Lhotse Fit Score and 35 on the Ascent Urgency Score — which means we lead with Lhotse.** In the first three months, we would: build reorder and post-purchase email sequences; move campaigns to engaged-only segments; remove about 40,000 inactive people from the list (cutting their Klaviyo bill); and set up a holdout test so the Head of Growth can show the founder real, proven numbers — not just platform estimates.
+**This brand scores about 85 on the Lhotse Fit Score and 35 on the Ascent Urgency Score, which means we lead with Lhotse.** In the first three months, we would: build reorder and post-purchase email sequences; move campaigns to engaged-only segments; remove about 40,000 inactive people from the list (cutting their Klaviyo bill); and set up a holdout test so the Head of Growth can show the founder real, proven numbers, not just platform estimates.
 
 ---
 
-# 6. How Many Potential Clients Exist and Where They Are
+# 5. How Many Potential Clients Exist and Where They Are
 
-> **Bottom line:** The usable pool of potential clients — anchored on Shopify Plus brands — is roughly **4,500 brands across six countries**, about two-thirds of them in the US. At our midpoint monthly fee, that pool is worth about $230M per year in possible revenue. GrowMailers only needs to win well under 1% of it. The limit is not the size of the market — it's our own delivery capacity. Also: some cities show thousands of Shopify stores because overseas founders register their businesses there — those are not real local brands and must be filtered out.
+> **Bottom line:** The usable pool of potential clients, anchored on Shopify Plus brands, is roughly **4,500 brands across six countries**, about two-thirds of them in the US. At our midpoint monthly fee, that pool is worth about $230M per year in possible revenue. GrowMailers only needs to win well under 1% of it. The limit is not the size of the market, it's our own delivery capacity. Also: some cities show thousands of Shopify stores because overseas founders register their businesses there, those are not real local brands and must be filtered out.
 
-## 6.1 How many Shopify stores are there?
+## 5.1 How many Shopify stores are there?
 
 | Country | All Shopify stores | Shopify Plus stores | Stores using Klaviyo | Online shopping share of all retail |
 |---|---|---|---|---|
@@ -488,7 +391,7 @@ Their email list has 95,000 people in it, but only about 35,000 have clicked or 
 
 *Store Leads data, 18 September 2026.*
 
-## 6.2 Narrowing down to real prospects
+## 5.2 Narrowing down to real prospects
 
 ```
   Shopify Plus stores across six countries         43,896
@@ -526,7 +429,7 @@ Their email list has 95,000 people in it, but only about 35,000 have clicked or 
 
 *Delivery capacity limits us, not demand.*
 
-## 6.3 Each country's role
+## 5.3 Each country's role
 
 | Country | Role | Key cities | Email risk | Special notes |
 |---|---|---|---|---|
@@ -534,10 +437,10 @@ Their email list has 95,000 people in it, but only about 35,000 have clicked or 
 | **United Kingdom** | Secondary; best in Q1 (~643) | London (52,471 stores) | Microsoft is 32.3% of inboxes | Always test Microsoft delivery in every audit |
 | **Australia** | Secondary; best Jan–Mar and Jul–Aug (~380) | New South Wales, Victoria | Microsoft is 30.2% of inboxes | Most experienced Klaviyo market; lead with depth |
 | **Canada** | Selective (~389) | Ontario (44.7%), Quebec (19.5%) | Microsoft is 27.9% | Strictest email marketing laws (CASL); Quebec needs French |
-| **Ireland** | Add-on to UK (~51) | Dublin | Microsoft-heavy (estimated) | Company email addresses only — not personal Gmail |
+| **Ireland** | Add-on to UK (~51) | Dublin | Microsoft-heavy (estimated) | Company email addresses only, not personal Gmail |
 | **New Zealand** | Add-on to Australia (~60) | Auckland (11,232 stores) | No public data | 13% of stores are food brands |
 
-## 6.4 Best US states to target
+## 5.4 Best US states to target
 
 | State | Shopify stores with 10–49 staff | Klaviyo usage | Notes |
 |---|---|---|---|
@@ -552,9 +455,9 @@ Their email list has 95,000 people in it, but only about 35,000 have clicked or 
 
 In Florida, Texas, and Georgia, only 1–1.5% of stores have 10+ staff, versus 3–3.8% in California and New York. Use stricter revenue filters in those states.
 
-## 6.5 Watch out for fake US addresses
+## 5.5 Watch out for fake US addresses
 
-**The town of Sheridan, Wyoming (population under 20,000) has 20,043 Shopify stores — the third highest of any US city.** This is not a real DTC boom. It happens because founders outside the US set up an American business using a registered agent, and that agent's address becomes the store's listed address. The same thing happens in Cheyenne, Wyoming; Delaware; New Mexico; and at shared office addresses in London.
+**The town of Sheridan, Wyoming (population under 20,000) has 20,043 Shopify stores, the third highest of any US city.** This is not a real DTC boom. It happens because founders outside the US set up an American business using a registered agent, and that agent's address becomes the store's listed address. The same thing happens in Cheyenne, Wyoming; Delaware; New Mexico; and at shared office addresses in London.
 
 **How to filter these out:**
 
@@ -564,7 +467,7 @@ In Florida, Texas, and Georgia, only 1–1.5% of stores have 10+ staff, versus 3
 4. If they are actually based outside our six countries, skip them. If they are inside, update their country tag and apply that country's laws.
 5. Log the check in your CRM
 
-## 6.6 Time zone guide (working from Nepal)
+## 5.6 Time zone guide (working from Nepal)
 
 The GrowMailers team works in Nepal Standard Time (NPT, 5 hours and 45 minutes ahead of London/UTC):
 
@@ -580,11 +483,11 @@ Schedule every outreach email to arrive at 8–10 AM in the recipient's time zon
 
 ---
 
-# 7. Who Makes the Buying Decision and What They Care About
+# 6. Who Makes the Buying Decision and What They Care About
 
-> **Bottom line:** For brands under $5M, the founder signs everything. From $5M to $20M, a marketing leader signs and a retention specialist influences them. Above $20M, finance reviews the contract. Founders care about cash and profit. Growth leaders care about lowering their blended marketing cost. Retention staff care about getting relief from heavy workload and risk. Lhotse starts competing directly with a new hire when the brand would normally be considering their first email specialist — usually between $3M and $8M in revenue.
+> **Bottom line:** For brands under $5M, the founder signs everything. From $5M to $20M, a marketing leader signs and a retention specialist influences them. Above $20M, finance reviews the contract. Founders care about cash and profit. Growth leaders care about lowering their blended marketing cost. Retention staff care about getting relief from heavy workload and risk. Lhotse starts competing directly with a new hire when the brand would normally be considering their first email specialist, usually between $3M and $8M in revenue.
 
-## 7.1 How teams change as brands grow
+## 6.1 How teams change as brands grow
 
 | Revenue | Marketing team | How much they spend on outside agencies | Who runs email | Who signs contracts |
 |---|---|---|---|---|
@@ -593,7 +496,7 @@ Schedule every outreach email to arrive at 8–10 AM in the recipient's time zon
 | $8M–$20M | 7–12 | About 7% | Retention specialist | VP Marketing, CMO, or Head of Growth |
 | $20M–$50M | 15–25, led by a VP or CMO | About 5% | Head of Retention + team | CMO or VP; finance reviews |
 
-Between about $3M and $15M, brands shift from needing "a Klaviyo specialist" to needing "a retention strategist." Many have someone who can build an email sequence but no one who can design a full retention strategy — and Lhotse fills exactly that gap.
+Between about $3M and $15M, brands shift from needing "a Klaviyo specialist" to needing "a retention strategist." Many have someone who can build an email sequence but no one who can design a full retention strategy, and Lhotse fills exactly that gap.
 
 Also: as brands get bigger, they spend a smaller share of revenue on marketing. Brands under $5M spend 30–45% of revenue on marketing. Ten public consumer brands spend a median of 13.3%. Smaller brands feel every dollar, so for small clients (L1), we sell Lhotse as a money-saver, not just a growth driver.
 
@@ -610,7 +513,7 @@ Also: as brands get bigger, they spend a smaller share of revenue on marketing. 
                                    the email/retention hire)
 ```
 
-## 7.2 The four types of decision-makers
+## 6.2 The four types of decision-makers
 
 | | **Founder / CEO** | **Head of Marketing / Head of Growth** | **CMO** | **Retention Specialist** |
 |---|---|---|---|---|
@@ -619,29 +522,29 @@ Also: as brands get bigger, they spend a smaller share of revenue on marketing. 
 | Biggest fear | Paying an agency that overpromises | Missing revenue targets as ad costs rise | A public failure during Black Friday or peak season | Being blamed for a deliverability incident; burning out |
 | What they need to hear | "Here's the cost, the payback, and how you'll know if it's working." | "Owned-channel revenue lowers your blended marketing cost." | "Specialist depth, measured by real lift tests, no risk to peak season." | "We take the heavy lifting and fix what you haven't had time for." |
 | Evidence they trust | A model built with their own numbers | Holdout-tested lift results | Case studies at their revenue level | Technical audit findings and a clear process |
-| Best starting offer | Ascent A1 or Lhotse Core | Lhotse Growth | Ascent A3, then Lhotse Scale | Ascent, positioned as their ally — not their replacement |
+| Best starting offer | Ascent A1 or Lhotse Core | Lhotse Growth | Ascent A3, then Lhotse Scale | Ascent, positioned as their ally, not their replacement |
 | What kills the deal | Vague promises; long lock-in contracts | Vanity metrics like "open rates" | A junior team; no risk management plan | Anything that makes them feel threatened |
 
-## 7.3 How to handle common objections
+## 6.3 How to handle common objections
 
 | Objection | What they really mean | Our response | Evidence we offer |
 |---|---|---|---|
 | "We already have an agency." | Inertia, or quiet dissatisfaction | "No need to switch. Ascent is a technical repair job most agencies don't do. Here's what we found in your email headers." | The external audit results |
 | "We'll just hire someone." | They think a hire is cheaper | "A good hire costs $85k–$135k fully loaded and has one skill set. Lhotse is $36k–$66k and brings a whole team." | Section 1.3 comparison |
-| "Our open rates are fine." | Open rates are inflated by Apple auto-opens | "Apple auto-opens most emails without anyone actually reading them. Let's look at clicks and actual orders placed." | Section 10 benchmarks |
+| "Our open rates are fine." | Open rates are inflated by Apple auto-opens | "Apple auto-opens most emails without anyone actually reading them. Let's look at clicks and actual orders placed." | Section 9 benchmarks |
 | "Klaviyo says delivery is fine." | Averages hide problems at specific providers | "About a third of UK, Canadian, and Australian inboxes are Microsoft. Let's check by provider specifically." | Provider-level check |
-| "Not right now, it's Black Friday prep." | A real freeze — do not push | "Completely understood — no retainer now. Here are two quick safe fixes, and let's book a January conversation." | Section 16 safe-fix list |
-| "Too expensive." | ROI is not clear yet, or cash is tight | "At your margins, Lhotse needs about 80–140 extra repeat orders a month. You already do 6,000." | Section 8 breakeven math |
+| "Not right now, it's Black Friday prep." | A real freeze, do not push | "Completely understood, no retainer now. Here are two quick safe fixes, and let's book a January conversation." | Section 15 safe-fix list |
+| "Too expensive." | ROI is not clear yet, or cash is tight | "At your margins, Lhotse needs about 80–140 extra repeat orders a month. You already do 6,000." | Section 7 breakeven math |
 | "An agency already disappointed us." | Past over-promising | "What did they measure? We report lift tested against a control group, not platform credits." | Sample holdout test report |
-| "Isn't not having DMARC enforcement a failure?" | A scare tactic from past vendors | "No — a monitoring-only DMARC record meets every major email provider's rules. Moving to enforcement is best practice, done carefully, not urgently." | Section 13 |
+| "Isn't not having DMARC enforcement a failure?" | A scare tactic from past vendors | "No, a monitoring-only DMARC record meets every major email provider's rules. Moving to enforcement is best practice, done carefully, not urgently." | Section 12 |
 
 ---
 
-# 8. How Much Money Each Type of Product Makes
+# 7. How Much Money Each Type of Product Makes
 
-> **Bottom line:** For every product type we target, the first sale through ads barely breaks even — or actually loses money. Profit starts with the second order. Beauty and supplements have the best margins, so Lhotse pays for itself fastest there. Food and pet earn less per sale, so we need a higher revenue minimum for those. Also: when brands automatically put a discount in every repeat-order email "out of habit," they can wipe out a third of their profit per sale. Managing discounts is part of what Lhotse does.
+> **Bottom line:** For every product type we target, the first sale through ads barely breaks even, or actually loses money. Profit starts with the second order. Beauty and supplements have the best margins, so Lhotse pays for itself fastest there. Food and pet earn less per sale, so we need a higher revenue minimum for those. Also: when brands automatically put a discount in every repeat-order email "out of habit," they can wipe out a third of their profit per sale. Managing discounts is part of what Lhotse does.
 
-## 8.1 What real company financials look like
+## 7.1 What real company financials look like
 
 | Company | Revenue | Gross profit rate | Marketing spend | Net profit |
 |---|---|---|---|---|
@@ -651,7 +554,7 @@ Also: as brands get bigger, they spend a smaller share of revenue on marketing. 
 
 Even at large scale with strong gross margins, DTC brands make only about 5% net profit. The ones that survive are built on repeat customers. At Temple & Webster, 62% of orders in their latest year came from repeat customers.
 
-## 8.2 Profit per order by product type
+## 7.2 Profit per order by product type
 
 | Product type | Average order size | Gross margin | Shipping and payment fees | Average ad cost per purchase | **Profit on first order** | **Profit on repeat order** |
 |---|---|---|---|---|---|---|
@@ -661,9 +564,9 @@ Even at large scale with strong gross margins, DTC brands make only about 5% net
 | Food and drink | $69.87 | 45% | 20% | $28.96 | **−$11.49 (a loss)** | **$17.47** |
 | Pet | $69.95 | 50% | 18% | $32.68 | **−$10.29 (a loss)** | **$22.39** |
 
-*Order sizes and ad costs are from Triple Whale's real customer data, US DTC brands, mid-2026. Margins and fee rates are our planning estimates — replace with each brand's real numbers during a discovery call.*
+*Order sizes and ad costs are from Triple Whale's real customer data, US DTC brands, mid-2026. Margins and fee rates are our planning estimates, replace with each brand's real numbers during a discovery call.*
 
-## 8.3 How profit builds over time
+## 7.3 How profit builds over time
 
 ```
   PROFIT ACCUMULATED PER CUSTOMER (each bar block ≈ $5; negative means a loss)
@@ -688,7 +591,7 @@ Even at large scale with strong gross margins, DTC brands make only about 5% net
 
 Supplements has the best economics. Even though the first order loses money, the 30-day reorder cycle quickly turns it positive. Food makes very little per sale at every stage, which is why it needs frequency and bigger basket sizes to work.
 
-## 8.4 How many extra repeat orders do our services need to generate?
+## 7.4 How many extra repeat orders do our services need to generate?
 
 | Product type | Profit per repeat order | To pay for Lhotse at $3,000/mo | To pay for Lhotse at $5,500/mo | To pay for Ascent ($5,000 once) |
 |---|---|---|---|---|
@@ -698,28 +601,28 @@ Supplements has the best economics. Even though the first order loses money, the
 | Food and drink | $17.47 | 172 | 315 | 287 |
 | Pet | $22.39 | 134 | 246 | 224 |
 
-**In perspective:** A $5M beauty brand does about 6,100 orders per month. Lhotse needs 78–142 of those to be extra orders it generated — that is only 1.3–2.3%. A $5M food brand does about 5,960 orders and needs 172–315 extra — 2.9–5.3%. That is harder to hit, which is why food brands need higher revenue before we take them on, and why we always use holdout tests to prove the numbers in low-margin product types.
+**In perspective:** A $5M beauty brand does about 6,100 orders per month. Lhotse needs 78–142 of those to be extra orders it generated, that is only 1.3–2.3%. A $5M food brand does about 5,960 orders and needs 172–315 extra, 2.9–5.3%. That is harder to hit, which is why food brands need higher revenue before we take them on, and why we always use holdout tests to prove the numbers in low-margin product types.
 
-## 8.5 The levers that move the model
+## 7.5 The levers that move the model
 
 | What changes | The change | Effect on a beauty brand |
 |---|---|---|
 | More customers come back | Repeat rate goes from 25% to 30% | About 20% more repeat orders |
 | Bigger repeat orders | Average order value rises 10% through bundles | Profit per repeat order goes from $38.93 to about $43.85 |
 | Faster reorders | Reminder email sent at day 38 instead of day 45 for a 40-day product | Catches buyers before they switch to a competitor |
-| **Unnecessary discounts** | **20% off every repeat order** | **Profit per order falls from $38.93 to $25.27 — a 35% drop** |
+| **Unnecessary discounts** | **20% off every repeat order** | **Profit per order falls from $38.93 to $25.27, a 35% drop** |
 
-Many brands automatically put a 15–20% discount code in every email out of habit. On a $68 beauty order, 20% off takes away $13.66 of revenue while the product cost and shipping stay the same. Saving discounts for win-back campaigns, first-order conversion, and Black Friday — and using education and reviews everywhere else — can add more profit than building any new email sequence.
+Many brands automatically put a 15–20% discount code in every email out of habit. On a $68 beauty order, 20% off takes away $13.66 of revenue while the product cost and shipping stay the same. Saving discounts for win-back campaigns, first-order conversion, and Black Friday, and using education and reviews everywhere else, can add more profit than building any new email sequence.
 
 **In sales conversations:** Rebuild this model live on every discovery call using the prospect's real numbers. When their own spreadsheet shows that Lhotse only needs 1–3% of their monthly orders to be incremental, the "too expensive" objection usually goes away.
 
 ---
 
-# 9. When to Sell (the Business Calendar)
+# 8. When to Sell (the Business Calendar)
 
-> **Bottom line:** Brands pay for their holiday-season stock in summer — so they are most cash-strapped in August and September, and have the most cash available in January and February. This cycle, more than any marketing calendar, decides when a founder will sign a retainer contract. Sell Lhotse when budgets reset and cash returns. Sell Ascent's quick, low-risk fixes when pressure is high. Never pitch a new retainer in the weeks before Black Friday.
+> **Bottom line:** Brands pay for their holiday-season stock in summer, so they are most cash-strapped in August and September, and have the most cash available in January and February. This cycle, more than any marketing calendar, decides when a founder will sign a retainer contract. Sell Lhotse when budgets reset and cash returns. Sell Ascent's quick, low-risk fixes when pressure is high. Never pitch a new retainer in the weeks before Black Friday.
 
-## 9.1 The inventory money cycle
+## 8.1 The inventory money cycle
 
 ```
   MAY–JUN      JUNE         LATE JUN        SEP                OCT–NOV       DEC          JAN
@@ -732,7 +635,7 @@ Many brands automatically put a 15–20% discount code in every email out of hab
 
 This cash timing gives Ascent a useful argument in the fall: *every order lost to the spam folder is inventory you have already paid for and cannot afford to lose now.*
 
-## 9.2 Month-by-month guide
+## 8.2 Month-by-month guide
 
 | Month | Cash and inventory | What brands are focused on | Pitch window | What GrowMailers does |
 |---|---|---|---|---|
@@ -749,7 +652,7 @@ This cash timing gives Ascent a useful argument in the fall: *every order lost t
 | **November** | **Change freeze** | Black Friday and Cyber Monday | ☆ | No pitching. Book January conversations. |
 | **December** | Peak revenue arriving | Shipping cut-offs; Boxing Day | ☆ | Book January. December struggles feed January pitches. |
 
-## 9.3 When budgets reset by country
+## 8.3 When budgets reset by country
 
 The US and Canada mostly use a January–December budget year, so January is the best buying moment. Some UK and Irish brands reset budgets in April.
 
@@ -765,15 +668,15 @@ The US and Canada mostly use a January–December budget year, so January is the
 
 ---
 
-# 10. How to Measure Whether Email Is Working
+# 9. How to Measure Whether Email Is Working
 
-> **Bottom line:** Open rates have stopped being a useful measurement, because Apple automatically opens most emails whether or not a real person reads them. Judge an email program by click rate, purchase rate, revenue per email sent, and — most importantly — holdout-tested lift (testing whether email actually caused the purchase or the customer would have bought anyway). Healthy brands earn 20–30% of their website revenue from email and texts. Below 8%, there is basically no real email program.
+> **Bottom line:** Open rates have stopped being a useful measurement, because Apple automatically opens most emails whether or not a real person reads them. Judge an email program by click rate, purchase rate, revenue per email sent, and, most importantly, holdout-tested lift (testing whether email actually caused the purchase or the customer would have bought anyway). Healthy brands earn 20–30% of their website revenue from email and texts. Below 8%, there is basically no real email program.
 
-## 10.1 How much revenue email should drive
+## 9.1 How much revenue email should drive
 
 | Email's share of website revenue | What it means | What GrowMailers recommends |
 |---|---|---|
-| Under 8% | No real program | Full Lhotse build — start with automated sequences |
+| Under 8% | No real program | Full Lhotse build, start with automated sequences |
 | 8–20% | Underdeveloped | Lhotse: fill sequence gaps and improve targeting |
 | 20–30% | Healthy | Lhotse: optimize and test |
 | 30–40% | Top tier | Ascent to protect it; Lhotse Scale if the team is stretched |
@@ -781,7 +684,7 @@ The US and Canada mostly use a January–December budget year, so January is the
 
 *Always record what attribution window was used.* Klaviyo by default credits any order placed within 5 days of an email open or click as an "email order." This overstates email's real effect, especially since Apple auto-opens inflate the open count.
 
-## 10.2 Industry benchmarks by platform
+## 9.2 Industry benchmarks by platform
 
 | Metric | Klaviyo campaigns | Klaviyo automated sequences | Omnisend campaigns | Omnisend automated |
 |---|---|---|---|---|
@@ -792,9 +695,9 @@ The US and Canada mostly use a January–December budget year, so January is the
 
 **Rule of thumb:** On Klaviyo, if a campaign's order rate is well below 1%, the email program has a problem.
 
-## 10.3 The Apple problem (why open rates are broken)
+## 9.3 The Apple problem (why open rates are broken)
 
-Apple's Mail Privacy Protection (MPP) automatically pre-loads emails when they arrive — this registers an "open" in the email platform even if the person never reads the email. Litmus reported that Apple accounted for 62% of all tracked opens in July 2026, with MPP affecting about 55–60% of all opens.
+Apple's Mail Privacy Protection (MPP) automatically pre-loads emails when they arrive, this registers an "open" in the email platform even if the person never reads the email. Litmus reported that Apple accounted for 62% of all tracked opens in July 2026, with MPP affecting about 55–60% of all opens.
 
 This causes three problems:
 
@@ -802,7 +705,7 @@ This causes three problems:
 2. **Subject line tests become unreliable.** When machines open half your emails, you cannot trust open rate as a test metric.
 3. **Inactive subscribers look active.** Your sunset policy (removing inactive people) fails because Apple keeps triggering "opens" even for dead subscribers.
 
-The fix: define engagement by clicks, website visits, and orders — not opens. Exclude Apple auto-opens where Klaviyo allows it. Only use opens as a sign of a technical problem at one specific email provider.
+The fix: define engagement by clicks, website visits, and orders, not opens. Exclude Apple auto-opens where Klaviyo allows it. Only use opens as a sign of a technical problem at one specific email provider.
 
 ```
             ▲ Most trustworthy
@@ -815,7 +718,7 @@ The fix: define engagement by clicks, website visits, and orders — not opens. 
             ▼ Least trustworthy
 ```
 
-## 10.4 Targets for a healthy Lhotse client
+## 9.4 Targets for a healthy Lhotse client
 
 | Metric | Healthy range | When to act |
 |---|---|---|
@@ -825,7 +728,7 @@ The fix: define engagement by clicks, website visits, and orders — not opens. 
 | Bounce rate | Below 1% | Above 2% (Klaviyo flags it) |
 | Campaign frequency | 2–5 per week; up to daily during Black Friday week | Only with engagement-based targeting |
 
-## 10.5 How to test whether email actually caused purchases (holdout tests)
+## 9.5 How to test whether email actually caused purchases (holdout tests)
 
 A holdout test is simple: randomly hold back 10% of people from receiving a sequence, then compare how often that 10% buys versus the 90% who got the emails. The difference shows how many purchases were genuinely caused by the email.
 
@@ -837,7 +740,7 @@ A holdout test is simple: randomly hold back 10% of people from receiving a sequ
 4. Incremental (real) orders = (rate for emailed group − rate for control group) × number who got emails
 5. Report both the platform-attributed number and the real incremental number side by side
 
-| Example | Emailed (90%) | Control — no email (10%) |
+| Example | Emailed (90%) | Control, no email (10%) |
 |---|---|---|
 | People in each group | 18,000 | 2,000 |
 | 14-day purchase rate | 4.0% = 720 orders | 2.8% = 56 orders |
@@ -850,11 +753,11 @@ In this example, about 30% of revenue Klaviyo "credits" to email is real. That i
 
 ---
 
-# 11. Automated Emails vs. One-Off Campaigns
+# 10. Automated Emails vs. One-Off Campaigns
 
-> **Bottom line:** Automated email sequences (triggered by customer behavior) earn far more per email than one-off campaign blasts. Klaviyo's own data shows automated sequences generate about 41% of email revenue but only 5% of emails sent — at nearly 18 times the revenue per email. Campaigns still drive most email revenue overall, though. A complete email program needs both: a solid base of automated sequences, plus targeted, well-planned campaigns on top.
+> **Bottom line:** Automated email sequences (triggered by customer behavior) earn far more per email than one-off campaign blasts. Klaviyo's own data shows automated sequences generate about 41% of email revenue but only 5% of emails sent, at nearly 18 times the revenue per email. Campaigns still drive most email revenue overall, though. A complete email program needs both: a solid base of automated sequences, plus targeted, well-planned campaigns on top.
 
-## 11.1 Automated sequences vs. campaign blasts
+## 10.1 Automated sequences vs. campaign blasts
 
 | | **Automated sequences** (triggered by behavior) | **Campaign blasts** (sent to a group at one time) |
 |---|---|---|
@@ -864,9 +767,9 @@ In this example, about 30% of revenue Klaviyo "credits" to email is real. That i
 | Share of revenue from new buyers | About 48% | About 16% |
 | Effect on delivery | Good (goes to people who want it) | Risky if sent to everyone |
 
-Nearly half of automated sequence revenue comes from new buyers. The best brands send fewer campaigns to smaller, more engaged segments — and use the time saved to improve their automated sequences.
+Nearly half of automated sequence revenue comes from new buyers. The best brands send fewer campaigns to smaller, more engaged segments, and use the time saved to improve their automated sequences.
 
-## 11.2 The customer journey and what emails go where
+## 10.2 The customer journey and what emails go where
 
 ```
   VISITOR → SUBSCRIBER → FIRST BUYER → REPEAT BUYER → VIP CUSTOMER
@@ -889,7 +792,7 @@ Cart abandonment and welcome sequences produced 76% of all automated orders on O
 7. Win-back
 8. VIP, birthday, and sunset
 
-## 11.3 Specifications for each sequence
+## 10.3 Specifications for each sequence
 
 | Sequence | What triggers it | Emails and timing | What they say | Discount policy |
 |---|---|---|---|---|
@@ -906,9 +809,9 @@ Cart abandonment and welcome sequences produced 76% of all automated orders on O
 
 In Omnisend's 2025 data: back-in-stock converted at 6.72% ($9.14 revenue per email); welcome at 2.11% ($6.16); abandoned cart at 1.72% ($3.59).
 
-**Special cases:** Subscription customers skip the reorder reminder and win-back flows — they get their own journey with charge reminders and options to skip or swap. Gift orders get a "treat yourself" cross-sell instead of a reorder reminder. Canadian cart abandoners can only be emailed with consent or an existing relationship (Canadian anti-spam law).
+**Special cases:** Subscription customers skip the reorder reminder and win-back flows, they get their own journey with charge reminders and options to skip or swap. Gift orders get a "treat yourself" cross-sell instead of a reorder reminder. Canadian cart abandoners can only be emailed with consent or an existing relationship (Canadian anti-spam law).
 
-## 11.4 Campaign planning
+## 10.4 Campaign planning
 
 | Element | Standard practice |
 |---|---|
@@ -916,13 +819,13 @@ In Omnisend's 2025 data: back-in-stock converted at 6.72% ($9.14 revenue per ema
 | Segments | Engaged (clicked, visited, or ordered in 30 days); warm (31–90 days); cool (91–180 days); older goes to sunset |
 | Who gets what | Engaged get everything; warm get 1–2 per week; cool get the strongest monthly send |
 | Content balance | About 40% products and new arrivals, 30% education and brand story, 20% social proof, 10% offers (outside peak) |
-| Testing | One variable at a time, measured by clicks and orders — never open rates |
+| Testing | One variable at a time, measured by clicks and orders, never open rates |
 
-The best documented example of this working: Patrick Ta Beauty's Black Friday 2024. They sent nearly 6 times their usual email volume, but to properly segmented audiences. Their unsubscribe rate fell 37%, and email drove 30% of online revenue — up from 10% the year before (Klaviyo case study).
+The best documented example of this working: Patrick Ta Beauty's Black Friday 2024. They sent nearly 6 times their usual email volume, but to properly segmented audiences. Their unsubscribe rate fell 37%, and email drove 30% of online revenue, up from 10% the year before (Klaviyo case study).
 
 **Text message (SMS) layering:** Klaviyo SMS costs about $0.009–$0.012 per US text. Use it where speed matters: abandoned checkout, back-in-stock alerts, shipping updates, and time-limited peak offers. Keep SMS campaigns to a few per month. US marketing texts need written consent, and quiet hours must be respected.
 
-## 11.5 Example: rebuilding email for a $6M pet brand
+## 10.5 Example: rebuilding email for a $6M pet brand
 
 *Illustrative example, not a real brand.*
 
@@ -940,13 +843,13 @@ In a food-led pet brand, we would expect the reorder reminder to become the top 
 
 ---
 
-# 12. Keeping the Email List Clean
+# 11. Keeping the Email List Clean
 
 > **Bottom line:** Klaviyo charges based on the number of active subscribers in the list. Inactive subscribers and fake sign-ups from bots cost a brand twice: once on the Klaviyo bill, and again because sending to them hurts inbox delivery. Engagement tiers, a sunset sequence, careful removal of dead subscribers, and bot protection answer the most common complaint from brand owners: a rising Klaviyo bill with flat email revenue.
 
-## 12.1 How Klaviyo charges
+## 11.1 How Klaviyo charges
 
-Since February 2025, Klaviyo charges based on every "active" profile (subscriber). It automatically bumps you to the next pricing tier when you exceed the limit. Removed (suppressed) subscribers leave the bill, but they can no longer receive any emails or enter any sequences — so removing someone is a marketing decision, not just a billing one.
+Since February 2025, Klaviyo charges based on every "active" profile (subscriber). It automatically bumps you to the next pricing tier when you exceed the limit. Removed (suppressed) subscribers leave the bill, but they can no longer receive any emails or enter any sequences, so removing someone is a marketing decision, not just a billing one.
 
 | Active subscribers | Monthly cost |
 |---|---|
@@ -969,13 +872,13 @@ Since February 2025, Klaviyo charges based on every "active" profile (subscriber
   Bots / fake addresses      ██                         3,000   5%  ← costs money, causes bounces
 ```
 
-One brand owner publicly described this exact situation: paying for 50,000+ subscribers while only about 15,000 engaged with anything, with flat revenue and a rising bill. Removing the inactive and bot segments would bring this list to about 27,000 real subscribers — cutting the email bill by roughly $300/month — and all remaining emails would go to people who actually respond.
+One brand owner publicly described this exact situation: paying for 50,000+ subscribers while only about 15,000 engaged with anything, with flat revenue and a rising bill. Removing the inactive and bot segments would bring this list to about 27,000 real subscribers, cutting the email bill by roughly $300/month, and all remaining emails would go to people who actually respond.
 
-## 12.2 How to categorize subscribers
+## 11.2 How to categorize subscribers
 
-| Category | Definition (based on clicks, visits, and orders — NOT opens) | How we treat them |
+| Category | Definition (based on clicks, visits, and orders, NOT opens) | How we treat them |
 |---|---|---|
-| **Engaged** | Clicked, visited, or ordered in last 30 days — or signed up in last 30 days | Every campaign |
+| **Engaged** | Clicked, visited, or ordered in last 30 days, or signed up in last 30 days | Every campaign |
 | **Warm** | Same actions, 31–90 days ago | 1–2 campaigns per week |
 | **Cool** | Same actions, 91–180 days ago | Strongest monthly send; targeted win-back |
 | **Inactive** | Nothing in 180+ days | Sunset sequence, then remove |
@@ -988,7 +891,7 @@ One brand owner publicly described this exact situation: paying for 50,000+ subs
 - Disposable email addresses and malformed addresses
 - People who received 3+ emails in 180 days with no click, website visit, or order
 
-## 12.3 Sunset sequence process
+## 11.3 Sunset sequence process
 
 1. **Entry trigger:** No click, visit, or order in 180 days AND no order in 12 months. Use 270 days for products with long buying cycles.
 2. **Re-permission:** 1–2 emails over 7–10 days, with a one-click "yes, keep me subscribed" button.
@@ -997,9 +900,9 @@ One brand owner publicly described this exact situation: paying for 50,000+ subs
 5. **Run it as an ongoing automated sequence,** not as an annual one-time purge.
 6. **Report:** how many were removed, how category sizes changed, and how click and order rates changed.
 
-One manufacturer who removed unengaged subscribers and added a sunset flow publicly reported their open rate rising from 45–55% to 65–70%. Opens are not a great metric (Section 10), but the direction confirms it: emailing fewer, more engaged people improves every other metric.
+One manufacturer who removed unengaged subscribers and added a sunset flow publicly reported their open rate rising from 45–55% to 65–70%. Opens are not a great metric (Section 9), but the direction confirms it: emailing fewer, more engaged people improves every other metric.
 
-## 12.4 Bots and list bombing
+## 11.4 Bots and list bombing
 
 **List bombing** happens when bots flood a sign-up form with real or fake email addresses. The brand then pays to store junk contacts, and their welcome emails bounce or land in spam.
 
@@ -1023,11 +926,11 @@ Warning signs:
 
 ---
 
-# 13. Email Security Settings Explained Simply
+# 12. Email Security Settings Explained Simply
 
-> **Bottom line:** There are three email security settings that Gmail, Yahoo, and Microsoft now require from brands sending bulk email. They all reject email from bulk senders that do not meet these rules. The three settings are: SPF (tells email providers which computers are allowed to send email for your domain), DKIM (a digital signature that proves the email is really from you), and DMARC (ties SPF and DKIM together and tells providers what to do with emails that fail). Starting with a DMARC record that just monitors — without blocking anything — meets all current requirements. Moving to blocking mode is best practice, done step by step. **A missing DMARC record — or having two of them — is the most common and most actionable finding we make in a free audit.**
+> **Bottom line:** There are three email security settings that Gmail, Yahoo, and Microsoft now require from brands sending bulk email. They all reject email from bulk senders that do not meet these rules. The three settings are: SPF (tells email providers which computers are allowed to send email for your domain), DKIM (a digital signature that proves the email is really from you), and DMARC (ties SPF and DKIM together and tells providers what to do with emails that fail). Starting with a DMARC record that just monitors, without blocking anything, meets all current requirements. Moving to blocking mode is best practice, done step by step. **A missing DMARC record, or having two of them, is the most common and most actionable finding we make in a free audit.**
 
-## 13.1 How the three settings work together
+## 12.1 How the three settings work together
 
 ```
    WHAT THE EMAIL PROVIDER SEES                    WHAT IT CHECKS
@@ -1040,9 +943,9 @@ Warning signs:
    ALIGNMENT: send.brand.com and brand.com share an organizational domain = aligned ✓
 ```
 
-**SPF** checks whether the sending computer is authorized. **DKIM** signs the email with a private key — the signature survives when the email is forwarded. **DMARC** ties both of these back to the visible "From" address and tells providers what to do if they fail — monitor, send to spam, or block entirely.
+**SPF** checks whether the sending computer is authorized. **DKIM** signs the email with a private key, the signature survives when the email is forwarded. **DMARC** ties both of these back to the visible "From" address and tells providers what to do if they fail, monitor, send to spam, or block entirely.
 
-## 13.2 SPF — Who is allowed to send email for this domain?
+## 12.2 SPF, Who is allowed to send email for this domain?
 
 An SPF record is a text record in the domain's DNS (the phone book of the internet). It lists every tool allowed to send email as that brand.
 
@@ -1058,11 +961,11 @@ brand.com.  IN TXT  "v=spf1 include:_spf.google.com include:mail.helpdesk-vendor
 | **Maximum 10 DNS lookups.** Each `include:`, `a`, `mx`, etc. counts as one lookup, including lookups inside lookups. | Permanent error, usually when an 11th tool is added |
 | **SPF checks the technical sender, not what the customer sees in "From:"** | SPF can pass while the DMARC check still fails |
 | **SPF breaks when emails are forwarded** | Why DKIM is more reliable |
-| **Qualifiers:** ~all (soft fail, normal) vs -all (hard fail, strict) vs +all (never use — authorizes everyone) | +all means anyone in the world can send as you |
+| **Qualifiers:** ~all (soft fail, normal) vs -all (hard fail, strict) vs +all (never use, authorizes everyone) | +all means anyone in the world can send as you |
 
 Klaviyo's sending domain lives on a subdomain (like `send.brand.com`) and handles its own SPF and DKIM. Do not add Klaviyo to the main SPF record unless Klaviyo's setup screen asks for it. Shopify handles its own SPF for Shopify-sent emails.
 
-## 13.3 DKIM — Proving the email is really from you
+## 12.3 DKIM, Proving the email is really from you
 
 DKIM adds a digital signature to every email. The signature header says which domain signed it (`d=`) and which key to use (`s=`). The public key lives in DNS and can be checked by anyone.
 
@@ -1073,7 +976,7 @@ DKIM adds a digital signature to every email. The signature header says which do
 | Coverage | EVERY tool that sends as @brand.com needs a DKIM signature: email service (Google/Microsoft), Klaviyo, help desk, review app, subscriptions |
 | Rotation | Keys managed through Klaviyo rotate automatically. Self-managed keys should be rotated at least yearly, and keep the old key live for 7+ days during rotation. |
 
-## 13.4 DMARC — Tying it all together and setting a policy
+## 12.4 DMARC, Tying it all together and setting a policy
 
 A basic starting DMARC record at `_dmarc.brand.com`:
 
@@ -1083,14 +986,14 @@ v=DMARC1; p=none; rua=mailto:dmarc-reports@brand.com; adkim=r; aspf=r
 
 | Setting | What it means | Starting recommendation |
 |---|---|---|
-| `p=none` | Monitor only — do nothing to failing emails | Start here |
+| `p=none` | Monitor only, do nothing to failing emails | Start here |
 | `p=quarantine` | Send failing emails to spam | Step 3 |
 | `p=reject` | Block failing emails entirely | Step 4 |
 | `rua=` | Where to send reports | Always set this |
-| `adkim=r` | Relaxed matching — subdomains count | Use relaxed |
-| `t=y` | Testing flag — new in 2026 standard | Use while testing quarantine |
+| `adkim=r` | Relaxed matching, subdomains count | Use relaxed |
+| `t=y` | Testing flag, new in 2026 standard | Use while testing quarantine |
 
-**The 2026 DMARC standard removed `pct` (percentage).** Do not raise a missing `pct=100` as a finding — it is not one. Bringing it up with a technical buyer tells them we are out of date.
+**The 2026 DMARC standard removed `pct` (percentage).** Do not raise a missing `pct=100` as a finding, it is not one. Bringing it up with a technical buyer tells them we are out of date.
 
 **The four-step path to full protection:**
 
@@ -1106,7 +1009,7 @@ v=DMARC1; p=none; rua=mailto:dmarc-reports@brand.com; adkim=r; aspf=r
 
 **Why Shopify brands specifically are at risk.** Shopify rewrites the sender address to shopifyemail.com when a brand either has *no* DMARC record *or two of them*. This is visible from outside and is a clean, easy-to-demonstrate finding for our free audit.
 
-## 13.5 What email providers now require
+## 12.5 What email providers now require
 
 | Requirement | Gmail | Yahoo / AOL | Microsoft |
 |---|---|---|---|
@@ -1119,11 +1022,11 @@ v=DMARC1; p=none; rua=mailto:dmarc-reports@brand.com; adkim=r; aspf=r
 
 **Every brand we target qualifies as a bulk sender.** Gmail holds 54.4% of US inboxes. One campaign to about 9,200 US subscribers probably crosses Gmail's bulk threshold.
 
-**Rejected email shows up as bounces in Klaviyo — not in a test inbox screenshot.** Always read the bounce reason codes.
+**Rejected email shows up as bounces in Klaviyo, not in a test inbox screenshot.** Always read the bounce reason codes.
 
-## 13.6 Klaviyo's sending setup
+## 12.6 Klaviyo's sending setup
 
-New Klaviyo accounts start on a shared sending domain with shared reputation. Gmail shows emails as "via klaviyomail.com" — meaning the email looks like it came from a Klaviyo computer, not the brand's own domain. Klaviyo requires bulk senders to set up a branded sending domain.
+New Klaviyo accounts start on a shared sending domain with shared reputation. Gmail shows emails as "via klaviyomail.com", meaning the email looks like it came from a Klaviyo computer, not the brand's own domain. Klaviyo requires bulk senders to set up a branded sending domain.
 
 Klaviyo's own warning thresholds are stricter than Gmail's:
 - Spam complaint rate above 0.05% (Gmail's limit is 0.1%)
@@ -1131,9 +1034,9 @@ Klaviyo's own warning thresholds are stricter than Gmail's:
 
 **Blocks on Klaviyo's shared sending pool are Klaviyo's problem to fix.** Every Ascent contract must say this clearly so there are no misunderstandings.
 
-## 13.7 What is NOT a real finding
+## 12.7 What is NOT a real finding
 
-Do not use these as a reason to pitch Ascent — they are not real problems:
+Do not use these as a reason to pitch Ascent, they are not real problems:
 
 | False finding | Why it is not a problem |
 |---|---|
@@ -1141,11 +1044,11 @@ Do not use these as a reason to pitch Ascent — they are not real problems:
 | "You're missing pct=100" | That tag was removed from the DMARC standard in 2026 |
 | "No BIMI is hurting delivery" | BIMI adds a logo in Gmail; it has zero effect on whether emails reach the inbox |
 | "Promotions tab = deliverability problem" | Gmail treats the Promotions tab as part of the inbox |
-| "One seed test shows spam, so you're blocked" | Seed test accounts have no email history — providers treat them differently |
+| "One seed test shows spam, so you're blocked" | Seed test accounts have no email history, providers treat them differently |
 
 **Lead with real findings instead:** no DMARC record at all; two DMARC records; failed alignment; shared Klaviyo domain on a big list; Shopify sender rewrite; SPF over its lookup limit; missing one-click unsubscribe; order confirmation emails landing in spam.
 
-## 13.8 Ascent repair process — no disruption to sending
+## 12.8 Ascent repair process, no disruption to sending
 
 | Day | Work | Actions | Safety guardrail |
 |---|---|---|---|
@@ -1153,18 +1056,18 @@ Do not use these as a reason to pitch Ascent — they are not real problems:
 | 1–3 | Inventory and quick wins | List every tool sending email; fix SPF to under 10 lookups; remove duplicate records; publish DMARC monitoring-only if missing | Add records before removing any; one change at a time |
 | 3–5 | Alignment | Set up branded Klaviyo sending domain; add DKIM for Google, help desk, reviews, subscriptions; verify one-click unsubscribe | Old sending path stays live until new one is verified |
 | 5–10 | List cleanup | Remove bounces, bots, and inactive profiles; build engagement tiers; launch sunset sequence; add bot protection to forms | Removals are tagged and reversible |
-| 10–14 | Warm-up and repair | Start the warm-up schedule (Section 14); fix Microsoft-specific problems first in UK/Canada/Australia; write handover document | Automated sequences keep sending throughout |
+| 10–14 | Warm-up and repair | Start the warm-up schedule (Section 13); fix Microsoft-specific problems first in UK/Canada/Australia; write handover document | Automated sequences keep sending throughout |
 | Weeks 3–12 | Monitor and enforce | Weekly metrics check; move DMARC toward blocking as reports confirm it's safe; 30-day review; Lhotse proposal if the brand fits | Rollback plan for every DNS change |
 
 **For large enterprise clients (A3):** they usually want their own IT team to make DNS changes. For each step, give them a change request document listing the exact records to add, why each one is needed, how to verify it, and how to undo it if needed.
 
 ---
 
-# 14. How to Test Whether Emails Actually Reach the Inbox
+# 13. How to Test Whether Emails Actually Reach the Inbox
 
 > **Bottom line:** A "seed test" (sending a test email to a panel of fake test accounts) shows how an email provider treats a stranger with no history. Google Postmaster Tools shows how the provider actually treats the brand's real customers. Protect your sender reputation by only emailing people who engaged recently, measure it with real data, and only use dedicated sending IP addresses for very large, consistent senders. The industry average inbox rate is already above 80%, so using "80% inbox rate" as a success bar for Ascent is too weak. Use a full scorecard instead.
 
-## 14.1 Where emails end up (industry data)
+## 13.1 Where emails end up (industry data)
 
 According to Validity's 2025 benchmark report, 83.5% of marketing emails reached the inbox. About 1 in 6 missed. Spam placement rose from 4.5% in Q1 to 8.6% in Q4.
 
@@ -1177,11 +1080,11 @@ According to Validity's 2025 benchmark report, 83.5% of marketing emails reached
 
 *Validity. No data for Ireland or New Zealand.*
 
-**Microsoft is the weak spot outside the US.** It holds about a third of inboxes in Canada, the UK, and Australia — and brands have reported months of emails going to Hotmail's spam folder even when they were only emailing 30-day-engaged subscribers. For non-US brands, check Microsoft first.
+**Microsoft is the weak spot outside the US.** It holds about a third of inboxes in Canada, the UK, and Australia, and brands have reported months of emails going to Hotmail's spam folder even when they were only emailing 30-day-engaged subscribers. For non-US brands, check Microsoft first.
 
-**Gmail's "Promotions" tab is not spam.** Klaviyo calls it "a type of inbox." No sender can choose which tab a message lands in. Since September 2025, Gmail has sorted the Promotions tab by relevance, so low-engagement senders sink within it. The honest pitch is about staying visible inside Promotions — which is an engagement argument, not a claim to "get you out of Promotions."
+**Gmail's "Promotions" tab is not spam.** Klaviyo calls it "a type of inbox." No sender can choose which tab a message lands in. Since September 2025, Gmail has sorted the Promotions tab by relevance, so low-engagement senders sink within it. The honest pitch is about staying visible inside Promotions, which is an engagement argument, not a claim to "get you out of Promotions."
 
-## 14.2 The measurement toolkit
+## 13.2 The measurement toolkit
 
 | Tool | What it shows | Limitations |
 |---|---|---|
@@ -1192,9 +1095,9 @@ According to Validity's 2025 benchmark report, 83.5% of marketing emails reached
 | DMARC aggregate reports | Every source sending as the brand's domain | Needs a report processing tool at larger volumes |
 | Seed tests | Where a test email lands across a panel of fake accounts | No engagement history; panel mix skews the score |
 
-## 14.3 How to use seed tests correctly
+## 13.3 How to use seed tests correctly
 
-Seed test accounts do not behave like real people — email providers treat new accounts differently. The mix of accounts in the panel also moves the score: Microsoft and Apple seed accounts place at around 75–76%, while Gmail and Yahoo seed accounts place at 86–87%. 
+Seed test accounts do not behave like real people, email providers treat new accounts differently. The mix of accounts in the panel also moves the score: Microsoft and Apple seed accounts place at around 75–76%, while Gmail and Yahoo seed accounts place at 86–87%. 
 
 The right way to use a seed test:
 - Weight the panel to match the brand's actual mix of subscribers (how many Gmail, how many Microsoft, etc.)
@@ -1214,7 +1117,7 @@ The right way to use a seed test:
 | One-click unsubscribe | Present on all marketing emails | Check email headers |
 | Revenue per email sent | Flat or better vs. the same weeks last year | Klaviyo |
 
-## 14.4 Shared IP vs. dedicated sending IP
+## 13.4 Shared IP vs. dedicated sending IP
 
 | | Shared IP (Klaviyo default) | Dedicated IP |
 |---|---|---|
@@ -1224,13 +1127,13 @@ The right way to use a seed test:
 | Main risk | If another brand on the same pool gets blocked, you might be affected | Every mistake is purely the brand's own problem |
 | Best for | Almost every brand we target | A3 brands with large, consistent daily sending volume |
 
-At Gmail, **domain reputation** now carries most of the weight — not which IP address you send from. For almost every brand we target, having authenticated email with an engaged list matters far more than whether you have your own IP address.
+At Gmail, **domain reputation** now carries most of the weight, not which IP address you send from. For almost every brand we target, having authenticated email with an engaged list matters far more than whether you have your own IP address.
 
-Shared sending pools do fail: one merchant reported Gmail blocking Klaviyo's shared IPs, bouncing 22.5% and 60% of two Black Friday 2025 campaigns. Even then, the fix was escalating to Klaviyo and tightening targeting — not switching to a dedicated IP.
+Shared sending pools do fail: one merchant reported Gmail blocking Klaviyo's shared IPs, bouncing 22.5% and 60% of two Black Friday 2025 campaigns. Even then, the fix was escalating to Klaviyo and tightening targeting, not switching to a dedicated IP.
 
-## 14.5 Warm-up schedule for a new sending domain
+## 13.5 Warm-up schedule for a new sending domain
 
-If a brand needs a new branded sending domain (e.g., moving from "via klaviyomail.com" to sending from "send.brand.com"), they need to warm it up gradually. This is based on Klaviyo's own guidance — third-party "warm-up" services have no role here.
+If a brand needs a new branded sending domain (e.g., moving from "via klaviyomail.com" to sending from "send.brand.com"), they need to warm it up gradually. This is based on Klaviyo's own guidance, third-party "warm-up" services have no role here.
 
 | Weeks | Who gets campaign emails | Automated sequences |
 |---|---|---|
@@ -1244,7 +1147,7 @@ Only step up if spam complaints stay below 0.05% and bounces below 1%. Otherwise
 
 **Important timing:** To finish warm-up before Black Friday 2026 (November 27), warm-up had to start by about September 18, 2026. **For Black Friday 2027 (November 26), start by about September 17, 2027.** Brands that missed the window should stay on their current authenticated path through peak season and migrate in January.
 
-## 14.6 How to handle delivery problems (incident runbook)
+## 13.6 How to handle delivery problems (incident runbook)
 
 | Problem | How you notice it | Severity | First 24 hours | Recovery |
 |---|---|---|---|---|
@@ -1254,9 +1157,9 @@ Only step up if spam complaints stay below 0.05% and bounces below 1%. Otherwise
 | Shared IP blocked | Bounce error codes; Klaviyo notification | Medium to high | Open Klaviyo support ticket; narrow sends to engaged-only | Klaviyo moves traffic; record this in the client report |
 | List bombing (bot sign-ups) | Sign-up spike | Medium | Add CAPTCHA and double opt-in to affected forms | Remove the affected cohort |
 | DMARC failures after adding a new tool | DMARC aggregate reports | Medium | Add DKIM or SPF for the new tool | Add a change-request step for future tool additions |
-| Volume jump before peak | Sending plan | Preventive | Ramp up over 4–6 weeks | Follow the peak SOP (Section 15) |
+| Volume jump before peak | Sending plan | Preventive | Ramp up over 4–6 weeks | Follow the peak SOP (Section 14) |
 
-## 14.7 Validity's "Heatwave" blocklist
+## 13.7 Validity's "Heatwave" blocklist
 
 On September 3, 2026, a company called Validity announced a new blocklist called Heatwave. It targets domains that use fake warm-up networks (networks of fake accounts that artificially exchange emails, opens, and replies to build a reputation). It launched with more than a million domains listed, with partners including Proofpoint, Spamhaus, SURBL, Comcast, and beehiiv.
 
@@ -1268,11 +1171,11 @@ Whether Gmail or Outlook use this list is unconfirmed. But email specialists hav
 
 ---
 
-# 15. The Shopping Holiday Calendar
+# 14. The Shopping Holiday Calendar
 
-> **Bottom line:** Black Friday falls on November 27, 2026 in all six of our target markets — that is 60 days from the date of this document. The planning year runs from the early-October setup freeze to the following September. Market-specific shopping events like Boxing Day, Mothering Sunday, and Australia's End of Financial Year shape client calendars and GrowMailers' selling windows. In 2025, US peak grew while the UK, Canada, and New Zealand were flat or down — so outside the US, peak revenue is about taking share, not riding overall growth.
+> **Bottom line:** Black Friday falls on November 27, 2026 in all six of our target markets, that is 60 days from the date of this document. The planning year runs from the early-October setup freeze to the following September. Market-specific shopping events like Boxing Day, Mothering Sunday, and Australia's End of Financial Year shape client calendars and GrowMailers' selling windows. In 2025, US peak grew while the UK, Canada, and New Zealand were flat or down, so outside the US, peak revenue is about taking share, not riding overall growth.
 
-## 15.1 Key dates: October 2026 to November 2027
+## 14.1 Key dates: October 2026 to November 2027
 
 | Date | Event | Markets | Why it matters |
 |---|---|---|---|
@@ -1302,9 +1205,9 @@ Whether Gmail or Outlook use this list is unconfirmed. But email specialists hav
 | Sep 5, 2027 | Father's Day | Australia, NZ | |
 | **Nov 26, 2027** | **Black Friday 2027** | **All six** | |
 
-**One important calendar shift:** Cyber Monday moves from December 1 (2025) to November 30 (2026). This means November 2026 will look stronger year-over-year and December 2026 will look weaker — purely because of the date shift. Warn clients before they try to read too much into the comparison.
+**One important calendar shift:** Cyber Monday moves from December 1 (2025) to November 30 (2026). This means November 2026 will look stronger year-over-year and December 2026 will look weaker, purely because of the date shift. Warn clients before they try to read too much into the comparison.
 
-## 15.2 How big peak season was in 2025
+## 14.2 How big peak season was in 2025
 
 | Market | What was measured | 2025 result |
 |---|---|---|
@@ -1329,7 +1232,7 @@ Whether Gmail or Outlook use this list is unconfirmed. But email specialists hav
 
 **Regional notes:** The UK's Black Friday runs all month, so UK segments must be live by late October. Mothering Sunday (March 7) and Mother's Day (May 9) are two months apart, so multi-market brands need two separate campaign tracks. Boxing Day is a major sale day outside the US, and December list capacity should be held for it. Australian and New Zealand summer falls over Christmas.
 
-## 15.3 Peak season email preparation checklist
+## 14.3 Peak season email preparation checklist
 
 ```
   12 WEEKS OUT ── Security settings final; any new sending domain already warming (≈ mid-Sep)
@@ -1347,11 +1250,11 @@ Whether Gmail or Outlook use this list is unconfirmed. But email specialists hav
 
 ---
 
-# 16. When to Pitch Which Service
+# 15. When to Pitch Which Service
 
 > **Bottom line:** Pitch Lhotse when budgets have just reset and there is time to build: January to February, and June to mid-September. From mid-October to year-end, only sell low-risk quick Ascent fixes and book January conversations. As of September 28, 2026, GrowMailers has about three weeks of safe Ascent selling time left before the Black Friday setup freeze. The next Lhotse window opens January 4, 2027.
 
-## 16.1 The master selling calendar
+## 15.1 The master selling calendar
 
 | Window | Dates | Lead offer | What Ascent can cover | Lhotse | Message |
 |---|---|---|---|---|---|
@@ -1373,7 +1276,7 @@ Whether Gmail or Outlook use this list is unconfirmed. But email specialists hav
    └─ January–February → LHOTSE, with Ascent folded into onboarding if needed
 ```
 
-## 16.2 Planning backward from Black Friday 2027
+## 15.2 Planning backward from Black Friday 2027
 
 ```
   JUN 2027     JUL              AUG              SEP                  OCT           NOV 26
@@ -1384,7 +1287,7 @@ Whether Gmail or Outlook use this list is unconfirmed. But email specialists hav
 
 For a Lhotse client to be fully ready for peak, the latest sensible contract date is early August. After that, pitch a January start instead.
 
-## 16.3 How long each deal typically takes
+## 15.3 How long each deal typically takes
 
 | Service and client type | Typical time from first contact to signed | Implication |
 |---|---|---|
@@ -1410,7 +1313,7 @@ For a Lhotse client to be fully ready for peak, the latest sensible contract dat
 - Thursday: Follow-ups, discovery calls, and proposals
 - Friday: Pipeline review, re-scoring, and a health check on GrowMailers' own outreach domains
 
-## 16.4 Priority by market and time of year
+## 15.4 Priority by market and time of year
 
 | Time of year | US | UK and Ireland | Canada | Australia and NZ |
 |---|---|---|---|---|
@@ -1422,13 +1325,13 @@ For a Lhotse client to be fully ready for peak, the latest sensible contract dat
 
 ---
 
-# 17. Email Marketing Laws by Country
+# 16. Email Marketing Laws by Country
 
 > **Bottom line:** Cold email to businesses is easiest in the US, which runs an opt-out system (brands can email first, and recipients unsubscribe if they don't want it). It is more restricted in the UK (only companies registered with the government are fully safe), and tightly regulated in Canada and Ireland (where only specific published addresses work). Australia and New Zealand use consent-based rules with some automatic exemptions for business addresses. Cold text messages are banned everywhere. In every country: identify GrowMailers honestly, include a mailing address and a working way to unsubscribe, record where each contact came from, and never buy lists.
 
 *This section is research, not legal advice. Confirm each country's rules with a lawyer before scaling outreach there.*
 
-## 17.1 Rules that apply everywhere
+## 16.1 Rules that apply everywhere
 
 1. **Be honest about who you are:** use a named GrowMailers sender, the real company name, and accurate email headers.
 2. **Honest subject lines** that match the content. Never use "Re:" or "Fwd:" in a first message.
@@ -1438,9 +1341,9 @@ For a Lhotse client to be fully ready for peak, the latest sensible contract dat
 6. **No bought lists, and no guessed or generated email addresses** in strict countries.
 7. **No cold text messages, automated calls, AI voices, or ringless voicemail** anywhere.
 
-## 17.2 United States: the basic rules
+## 16.2 United States: the basic rules
 
-**US federal law (CAN-SPAM)** covers all commercial email including business-to-business, and runs on an opt-out basis — prior consent is not required. Every message still needs:
+**US federal law (CAN-SPAM)** covers all commercial email including business-to-business, and runs on an opt-out basis, prior consent is not required. Every message still needs:
 
 | Requirement | What this means for GrowMailers outreach |
 |---|---|
@@ -1452,40 +1355,40 @@ For a Lhotse client to be fully ready for peak, the latest sensible contract dat
 | No harvesting addresses | Scraping addresses from sites that forbid it, or generating/guessing them, is a serious violation |
 | Penalties | More than $50,000 per non-compliant email |
 
-**US rules for calls and texts (TCPA):** Calls or texts to mobile phones made with an auto-dialer or a recorded/AI voice require prior consent. Marketing texts require *written* consent. Texts count as calls under this law. The National Do Not Call Registry protects residential and cell numbers. Business landlines are generally exempt, but many founders use their cell phone as the business line — scrub mobile numbers against the registry and call manually. Only call between **8 AM and 9 PM in the recipient's local time zone.** Fines are **$500 per violation, up to $1,500 if intentional.** Class action lawsuits are common.
+**US rules for calls and texts (TCPA):** Calls or texts to mobile phones made with an auto-dialer or a recorded/AI voice require prior consent. Marketing texts require *written* consent. Texts count as calls under this law. The National Do Not Call Registry protects residential and cell numbers. Business landlines are generally exempt, but many founders use their cell phone as the business line, scrub mobile numbers against the registry and call manually. Only call between **8 AM and 9 PM in the recipient's local time zone.** Fines are **$500 per violation, up to $1,500 if intentional.** Class action lawsuits are common.
 
-## 17.3 United Kingdom
+## 16.3 United Kingdom
 
 - **Registered companies** (Ltd, LLP, PLC, Scottish partnerships, government bodies) can receive B2B marketing email without consent, as long as GrowMailers identifies itself and offers an easy unsubscribe.
-- **Sole traders and some partnerships** need **consent** — check the UK companies register (Companies House) first. If no company is registered, do not cold email.
+- **Sole traders and some partnerships** need **consent**, check the UK companies register (Companies House) first. If no company is registered, do not cold email.
 - **Named employee email addresses** (like jane@brand.co.uk) count as personal data under UK law. GrowMailers needs a written justification for why it is legitimate to contact them, must tell them where we got their address within one month (putting this in the first email's footer works), and must treat any objection as permanent.
 - **A founder's personal Gmail address** almost certainly counts as an individual and needs consent (our reading).
 - **Calls:** Screen against the Telephone Preference Service and Corporate TPS first. Automated calls need consent.
-- **Penalties:** The maximum fine since February 5, 2026 is **£17.5 million or 4% of global revenue** — whichever is higher.
+- **Penalties:** The maximum fine since February 5, 2026 is **£17.5 million or 4% of global revenue**, whichever is higher.
 
-## 17.4 Canada — Strictest rules in our markets
+## 16.4 Canada, Strictest rules in our markets
 
-Canada's anti-spam law (CASL) applies to messages **sent into Canada from anywhere in the world** — including Nepal.
+Canada's anti-spam law (CASL) applies to messages **sent into Canada from anywhere in the world**, including Nepal.
 
 - Every commercial email needs **consent** (express or implied), **sender identification**, and a **working unsubscribe**.
 - **Implied consent through a published address** requires ALL three of these: the person published the address (e.g., on their company website); nothing near it says "do not send unsolicited messages"; and the message is relevant to their business role. Canadian regulators have said this is not a blanket license to email any address found online.
 - **Addresses found only through enrichment tools, and personal Gmail addresses, do not qualify for implied consent.**
 - **Referral exception:** one message is allowed after a referral from someone who knows both parties, and it must name the referrer in full.
 - **Every email must include:** sender name, mailing address, and a phone, email, or web contact that stays valid for 60 days. Unsubscribes must be processed within **10 business days.**
-- **The sender must be able to prove consent** — keep a dated screenshot of where each address was publicly published.
+- **The sender must be able to prove consent**, keep a dated screenshot of where each address was publicly published.
 - **Penalties:** up to **C$10 million per violation** for a business. Recent enforcement against Indeed Canada, Hudson's Bay, and DavidsTea all involved broken unsubscribe processes.
 - **Calls:** Register with Canada's National Do Not Call List (DNCL), keep an internal do-not-call list, only call **9 AM–9:30 PM weekdays and 10 AM–6 PM weekends**, and identify yourself. The CRTC has fined foreign callers C$175,000.
 - **Quebec:** marketing must be available in French. Write in French or put Quebec lower in the outreach queue.
 
-## 17.5 Ireland, Australia, and New Zealand
+## 16.5 Ireland, Australia, and New Zealand
 
-- **Ireland:** Email to a **registered company** is allowed unless it has objected. A **named employee email address** may count as a personal address needing consent — use generic company addresses (like info@brand.ie) until a lawyer confirms otherwise. **Cold texts to mobiles need consent**, and many Irish founders use a mobile as their business number. Each unsolicited message is a separate offense. Ireland's Data Protection Commission closed 275 direct-marketing investigations in 2025 — up 88%.
+- **Ireland:** Email to a **registered company** is allowed unless it has objected. A **named employee email address** may count as a personal address needing consent, use generic company addresses (like info@brand.ie) until a lawyer confirms otherwise. **Cold texts to mobiles need consent**, and many Irish founders use a mobile as their business number. Each unsolicited message is a separate offense. Ireland's Data Protection Commission closed 275 direct-marketing investigations in 2025, up 88%.
 - **Australia (Spam Act 2003):** Consent may be express or **inferred**. Inferred consent covers business addresses that are publicly displayed and where the message matches the person's business role and nothing nearby says "no unsolicited messages." Every email needs sender identification and an unsubscribe honored within **5 working days.** Repeat violations can be fined up to A$3.3 million per day. Check Australia's Do Not Call Register before calling mobile numbers.
-- **New Zealand (Unsolicited Electronic Messages Act 2007):** Consent may be express, inferred, or **deemed**. Deemed consent applies to publicly displayed business addresses — same rules as Australia's inferred consent. Unsubscribes must be honored within **5 working days.**
+- **New Zealand (Unsolicited Electronic Messages Act 2007):** Consent may be express, inferred, or **deemed**. Deemed consent applies to publicly displayed business addresses, same rules as Australia's inferred consent. Unsubscribes must be honored within **5 working days.**
 
 *Our research on Australia and NZ is not complete. Treat both as frameworks to confirm with a local lawyer.*
 
-## 17.6 Six-country comparison and pre-send checklist
+## 16.6 Six-country comparison and pre-send checklist
 
 | Country | Cold email to businesses | Safest address type | Cold calls | Unsubscribe deadline | Risk level |
 |---|---|---|---|---|---|
@@ -1506,19 +1409,19 @@ Canada's anti-spam law (CASL) applies to messages **sent into Canada from anywhe
 - [ ] Footer includes: GrowMailers full name, mailing address, statement that this is about GrowMailers' services, data source note (for UK and EU), simple one-click unsubscribe
 - [ ] Sequence of 3–4 messages over about 3 weeks, stopping at any reply
 
-## 17.7 GrowMailers' own outreach setup
+## 16.7 GrowMailers' own outreach setup
 
 A deliverability agency's own outreach is its first case study. Follow these rules:
 
 - **Keep cold outreach on separate domains**, away from growmailers.com
-- **Authenticate every outreach domain fully** (SPF, DKIM, and DMARC — moving toward blocking mode)
-- **Stop all fake warm-up immediately** (Section 14.6 — Heatwave blocklist risk)
+- **Authenticate every outreach domain fully** (SPF, DKIM, and DMARC, moving toward blocking mode)
+- **Stop all fake warm-up immediately** (Section 13.6, Heatwave blocklist risk)
 - **Keep volume low and human:** researched, personal emails at a steady per-mailbox pace
 - Check blocklists and Google Postmaster data every week; keep bounce rate below 2%
 
 New Shopify owners are flooded with cold sales pitches. Online communities often label them scams, and they call out Gmail senders and "your store has a problem" subject lines specifically. What works is the opposite: a specific free fix shown in a short screen recording, with no pitch attached. Public "free audit" offers in forums almost never get a reply.
 
-## 17.8 Rules our Lhotse clients must follow
+## 16.8 Rules our Lhotse clients must follow
 
 | Rule | Which country | What it means for Lhotse |
 |---|---|---|
@@ -1531,11 +1434,11 @@ New Shopify owners are flooded with cold sales pitches. Online communities often
 
 ---
 
-# 18. How to Find Clients, Audit Their Setup, and Close the Sale
+# 17. How to Find Clients, Audit Their Setup, and Close the Sale
 
 > **Bottom line:** GrowMailers wins by showing real work, not just talking about it. Build a precise list of prospects. Run a 15-minute audit from the outside (no login needed). Send one specific free fix in a short personalized video. Then qualify using the prospect's own numbers. Every step in this section can be repeated by a researcher and will hold up in front of a technical buyer.
 
-## 18.1 The full pipeline
+## 17.1 The full pipeline
 
 ```
   SOURCE → GATE → SCORE → AUDIT → OUTREACH → DISCOVERY → PROPOSAL → CLOSE → ONBOARD
@@ -1544,7 +1447,7 @@ New Shopify owners are flooded with cold sales pitches. Online communities often
   (18.2)    (5.1)   (4.3)   (18.3)  (18.4-5)  model (18.6)   (18.8)
 ```
 
-## 18.2 Step 1: Build the prospect list
+## 17.2 Step 1: Build the prospect list
 
 | Store Leads filter | What to set |
 |---|---|
@@ -1553,9 +1456,9 @@ New Shopify owners are flooded with cold sales pitches. Online communities often
 | Apps to include | Klaviyo |
 | Apps to exclude | Printful, Printify, Fourthwall; DSers, Zendrop, AutoDS, CJdropshipping |
 | Product categories | Beauty and fitness, health, food and drink, pet (clothing as secondary) |
-| Post-filter checks | Registered-agent address trap (Section 6.5); marketplace-led; hired email agency in last 6 months |
+| Post-filter checks | Registered-agent address trap (Section 5.5); marketplace-led; hired email agency in last 6 months |
 
-## 18.3 Step 2: The 15-minute outside audit (no login needed)
+## 17.3 Step 2: The 15-minute outside audit (no login needed)
 
 **Boundaries:** only use publicly available DNS records and emails received as a regular subscriber. No login attempts, no scanning tools, no spoofing tests, and no contact with the brand's customers.
 
@@ -1592,7 +1495,7 @@ Count SPF lookups manually or with a free online SPF checker (the limit is 10). 
 | Only one welcome email | Medium | Lhotse | "Your welcome is one email, and there's no reorder reminder for a 30-day product." |
 | Daily full-list blasts | Medium | Lhotse | "Sending daily to people who never click is what pushes a list into spam." |
 
-## 18.4 Step 3: Record a 90-second audit video
+## 17.4 Step 3: Record a 90-second audit video
 
 | Time | What to do | Example script |
 |---|---|---|
@@ -1602,9 +1505,9 @@ Count SPF lookups manually or with a free online SPF checker (the limit is 10). 
 | 0:55–1:15 | Give the free fix | "Here's the exact fix. [Show it.] Your developer can add it in minutes, and it's in the email below." |
 | 1:15–1:30 | Soft close | "That's it, no pitch. If you want a second pair of eyes on the rest, just reply." |
 
-Record the real inbox or DNS output — never a generic slide — and keep it under two minutes.
+Record the real inbox or DNS output, never a generic slide, and keep it under two minutes.
 
-## 18.5 Step 4: Email templates
+## 17.5 Step 4: Email templates
 
 **Template A: Ascent, to a founder ($1M–$5M brand)**
 
@@ -1620,7 +1523,7 @@ Record the real inbox or DNS output — never a generic slide — and keep it un
 
 > **Subject:** reorder reminder at [Brand]
 >
-> Hi [first name], I've been on the [Brand] list for two weeks. Your campaigns are sharp, but I didn't see a reorder reminder for [product], which is roughly a [N]-day product. At your size, a working reorder and post-purchase system usually needs just 1–3% of monthly orders to be incremental to pay for a full retention team — and we prove it with a holdout control group rather than platform estimates. Worth 20 minutes in January, once peak is behind you?
+> Hi [first name], I've been on the [Brand] list for two weeks. Your campaigns are sharp, but I didn't see a reorder reminder for [product], which is roughly a [N]-day product. At your size, a working reorder and post-purchase system usually needs just 1–3% of monthly orders to be incremental to pay for a full retention team, and we prove it with a holdout control group rather than platform estimates. Worth 20 minutes in January, once peak is behind you?
 >
 > [Your name], GrowMailers · *[compliant footer]*
 
@@ -1628,11 +1531,11 @@ Record the real inbox or DNS output — never a generic slide — and keep it un
 
 > **Subject:** DMARC enforcement at [Brand]
 >
-> Hi [first name], I work with enterprise brands moving from monitoring-only DMARC to full enforcement without disrupting sending. Looking at [Brand]'s headers, there are [N] sending tools currently not passing aligned checks — the kind of thing that becomes an emergency the week of a big send. I've outlined the full inventory below and included a zero-downtime repair sequence. Happy to walk through it in 20 minutes if useful.
+> Hi [first name], I work with enterprise brands moving from monitoring-only DMARC to full enforcement without disrupting sending. Looking at [Brand]'s headers, there are [N] sending tools currently not passing aligned checks, the kind of thing that becomes an emergency the week of a big send. I've outlined the full inventory below and included a zero-downtime repair sequence. Happy to walk through it in 20 minutes if useful.
 >
 > [Your name], GrowMailers · *[compliant footer]*
 
-## 18.6 Step 5: The discovery call — build a financial model
+## 17.6 Step 5: The discovery call, build a financial model
 
 Discovery call questions:
 
@@ -1640,7 +1543,7 @@ Discovery call questions:
 2. "How many total orders a month, and what's your average order value?"
 3. "What percentage of buyers come back within 12 months?"
 4. "What's your approximate gross margin?"
-5. "What's your biggest email concern right now — delivery, revenue, or both?"
+5. "What's your biggest email concern right now, delivery, revenue, or both?"
 
 Build their model during the call:
 
@@ -1658,7 +1561,7 @@ Build their model during the call:
 
 When their own model shows 1–3% needed, the price objection typically disappears.
 
-## 18.7 Step 6: The Ascent proposal
+## 17.7 Step 6: The Ascent proposal
 
 The Ascent Statement of Work should include:
 
@@ -1666,20 +1569,20 @@ The Ascent Statement of Work should include:
 1. Audit findings (what we found in their headers and inbox)
 2. Repair plan (which settings we fix, in what order, how long it takes)
 3. Safety guardrails (what we never touch; rollback plans for every DNS change)
-4. Delivery schedule (the 14-day repair timeline from Section 13.8, plus warm-up schedule)
-5. Measurement (the Health Scorecard from Section 14.3)
+4. Delivery schedule (the 14-day repair timeline from Section 12.8, plus warm-up schedule)
+5. Measurement (the Health Scorecard from Section 13.3)
 6. Shared Klaviyo pool notice (blocks on Klaviyo's shared pool are Klaviyo's to fix, not ours)
 7. Lhotse pathway (30-day review; credit against first month if they convert within 60 days)
 8. Price: $5,000 flat. No retainer lock-in.
 ```
 
-## 18.8 Step 7: Lhotse onboarding
+## 17.8 Step 7: Lhotse onboarding
 
 **Week 1:** Read-only Klaviyo access; review flows, campaigns, segments, and list; current metrics snapshot; discovery call to confirm goals; 90-day plan drafted.
 
 **Week 2:** Segment rebuild (engaged, warm, cool, inactive using clicks and orders, excluding Apple auto-opens); list review and suppress confirmed bots and hard-bounce profiles.
 
-**Weeks 3–4:** Rebuild the top priority sequence (usually abandoned checkout, welcome, or reorder — whichever is biggest gap); launch 10% holdout control group.
+**Weeks 3–4:** Rebuild the top priority sequence (usually abandoned checkout, welcome, or reorder, whichever is biggest gap); launch 10% holdout control group.
 
 **Weeks 5–8:** Build remaining sequences; migrate campaigns to engaged-only targeting; launch sunset sequence for inactive subscribers.
 
@@ -1694,29 +1597,29 @@ The Ascent Statement of Work should include:
 | **AOV (Average Order Value)** | The average amount a customer spends per order |
 | **Ascent** | GrowMailers' one-time email repair service, priced at $5,000 |
 | **Attribution window** | How far back Klaviyo looks when crediting a sale to an email (e.g., "if they bought within 5 days of opening an email, we count it") |
-| **BIMI** | A feature that shows a brand's logo next to their email in Gmail — has no effect on inbox delivery |
+| **BIMI** | A feature that shows a brand's logo next to their email in Gmail, has no effect on inbox delivery |
 | **Bounce** | An email that could not be delivered. A "hard bounce" means the address doesn't exist. A "soft bounce" means a temporary problem. |
-| **CASL** | Canada's email marketing law — the strictest in our markets |
-| **CAN-SPAM** | US federal email marketing law — runs on an opt-out basis |
+| **CASL** | Canada's email marketing law, the strictest in our markets |
+| **CAN-SPAM** | US federal email marketing law, runs on an opt-out basis |
 | **CAC (Customer Acquisition Cost)** | How much money it costs to get one new customer |
 | **CPA (Cost Per Purchase)** | Ad spend divided by all purchases, including returning customers |
 | **DKIM** | A digital signature added to emails proving they really came from the brand's domain |
 | **DMARC** | A security record that ties SPF and DKIM together and tells providers what to do when emails fail checks |
-| **DNS** | The "phone book of the internet" — a system that maps domain names to settings |
+| **DNS** | The "phone book of the internet", a system that maps domain names to settings |
 | **DTC (Direct-to-Consumer)** | A brand that sells directly to shoppers through its own website, not through a retailer |
 | **DNVB** | A brand that was born online and controls its products from design to delivery |
-| **EOFY** | End of Financial Year — in Australia this is June 30 |
-| **ESP (Email Service Provider)** | The platform that sends the emails — Klaviyo, Mailchimp, etc. |
+| **EOFY** | End of Financial Year, in Australia this is June 30 |
+| **ESP (Email Service Provider)** | The platform that sends the emails, Klaviyo, Mailchimp, etc. |
 | **Flow / Sequence** | An automated series of emails triggered by something a customer does (e.g., adding to cart, buying for the first time) |
 | **GTM (Go-to-Market)** | The plan for finding, pitching, and closing clients |
 | **Hard gate** | A requirement that must be met before we will pursue a prospect |
-| **Holdout test** | Holding back 10% of subscribers from receiving an email and comparing their purchase rate against the 90% who got it — to prove the email actually caused purchases |
+| **Holdout test** | Holding back 10% of subscribers from receiving an email and comparing their purchase rate against the 90% who got it, to prove the email actually caused purchases |
 | **ICP (Ideal Customer Profile)** | A detailed description of the perfect type of client for a business |
 | **Klaviyo** | The email and SMS platform our target brands use |
 | **Lhotse** | GrowMailers' monthly email management retainer, priced at $3,000–$5,500/month |
 | **List bombing** | When bots flood a sign-up form with fake or real email addresses |
 | **LTV (Lifetime Value)** | The total amount of money a customer spends over their entire relationship with the brand |
-| **MER (Marketing Efficiency Ratio)** | Total revenue divided by total marketing spend — a measure of how efficiently marketing dollars turn into sales |
+| **MER (Marketing Efficiency Ratio)** | Total revenue divided by total marketing spend, a measure of how efficiently marketing dollars turn into sales |
 | **MPP (Apple Mail Privacy Protection)** | Apple automatically "opens" emails when they arrive, inflating open rate stats |
 | **PECR** | UK rules for electronic marketing |
 | **Replenishment flow** | An automated email reminder sent when a customer is likely about to run out of a product |
@@ -1724,10 +1627,10 @@ The Ascent Statement of Work should include:
 | **SAM (Serviceable Addressable Market)** | The portion of the total market that actually fits our criteria |
 | **Seed test** | Sending a test email to a panel of fake accounts to see where it lands |
 | **Shopify Plus** | Shopify's enterprise tier, costing about $2,300–$2,500/month |
-| **SMS** | Text messages — used alongside email in retention programs |
+| **SMS** | Text messages, used alongside email in retention programs |
 | **SOM (Serviceable Obtainable Market)** | The realistic share of the market GrowMailers can actually win |
 | **SPF** | A DNS record listing which computers are allowed to send email for a domain |
-| **Sunset sequence** | A final series of emails asking inactive subscribers if they still want to hear from the brand — and removing them if they don't respond |
+| **Sunset sequence** | A final series of emails asking inactive subscribers if they still want to hear from the brand, and removing them if they don't respond |
 | **TAM (Total Addressable Market)** | The full size of the market if GrowMailers could capture 100% of it |
 | **TCPA** | US law governing calls and texts to mobile phones |
 | **Warm-up** | The process of gradually increasing email volume when using a new sending domain, so email providers build trust with it |
@@ -1738,24 +1641,24 @@ The Ascent Statement of Work should include:
 
 All data is from public sources current to September 2026 unless noted.
 
-- **US Census Bureau** — quarterly US e-commerce revenue
-- **Store Leads** — Shopify store counts, app data, category mixes (September 18, 2026)
-- **Klaviyo** — Q2 2026 financial results; 2026 email benchmarks; sending setup documentation
-- **Omnisend** — 2025 email marketing benchmarks
-- **Validity** — 2025 inbox placement benchmarks (2024 data)
-- **Triple Whale** — DTC median order values and ad cost per purchase (US brands, 90 days to September 21, 2026)
-- **ShipBob** — 2026 e-commerce survey
-- **Meta** — Q2 2026 earnings (ad pricing and impression data)
-- **Glassdoor** — US Email Marketing Manager salary data
-- **FIGS, Hims & Hers, Temple & Webster** — Public company financial filings
-- **eMarketer** — DTC share of US e-commerce
-- **Litmus** — Apple MPP open rate data (July 2026)
-- **Flypost, Level CFO** — Email and SMS share of DTC website revenue benchmarks
-- **Adobe** — 2025 Cyber Week spending data
-- **Shopify** — Q3 2026 financial results
-- **dmarcian** — DMARC enforcement rates among top retail domains
-- **Eightx** — Team size data for online-first brands
-- **Patrick Ta Beauty / Klaviyo** — Black Friday 2024 case study
-- **Validity Heatwave** — Announcement September 3, 2026
+- **US Census Bureau**, quarterly US e-commerce revenue
+- **Store Leads**, Shopify store counts, app data, category mixes (September 18, 2026)
+- **Klaviyo**, Q2 2026 financial results; 2026 email benchmarks; sending setup documentation
+- **Omnisend**, 2025 email marketing benchmarks
+- **Validity**, 2025 inbox placement benchmarks (2024 data)
+- **Triple Whale**, DTC median order values and ad cost per purchase (US brands, 90 days to September 21, 2026)
+- **ShipBob**, 2026 e-commerce survey
+- **Meta**, Q2 2026 earnings (ad pricing and impression data)
+- **Glassdoor**, US Email Marketing Manager salary data
+- **FIGS, Hims & Hers, Temple & Webster**, Public company financial filings
+- **eMarketer**, DTC share of US e-commerce
+- **Litmus**, Apple MPP open rate data (July 2026)
+- **Flypost, Level CFO**, Email and SMS share of DTC website revenue benchmarks
+- **Adobe**, 2025 Cyber Week spending data
+- **Shopify**, Q3 2026 financial results
+- **dmarcian**, DMARC enforcement rates among top retail domains
+- **Eightx**, Team size data for online-first brands
+- **Patrick Ta Beauty / Klaviyo**, Black Friday 2024 case study
+- **Validity Heatwave**, Announcement September 3, 2026
 
 *Where we used estimates or planning assumptions, we said so in the relevant section.*
