@@ -4,7 +4,8 @@
 Env:
   FULLENRICH_API_KEY   required
   FE_CREDIT_CAP        hard cap on credits spent this run (required, integer)
-  FE_ROUNDS            comma list of rounds to run, default "validate,1,2,3"
+  FE_ROUNDS            comma list of rounds to run, default "validate,1,2,3,4"
+  FE_HUNT_FILE         optional JSON from the surname hunt (key, first, last, linkedin, domain, confidence)
 
 Usage:
   python3 fullenrich_sep2026.py <input.xlsx> <output.xlsx>
@@ -19,7 +20,7 @@ import openpyxl
 API = "https://app.fullenrich.com/api/v1"
 KEY = os.environ.get("FULLENRICH_API_KEY")
 CAP = int(os.environ.get("FE_CREDIT_CAP", "0"))
-ROUNDS = os.environ.get("FE_ROUNDS", "validate,1,2,3").split(",")
+ROUNDS = os.environ.get("FE_ROUNDS", "validate,1,2,3,4").split(",")
 STATE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fe_state.json")
 
 FREE = {
@@ -169,6 +170,7 @@ def main(src, dst):
     state = json.load(open(STATE)) if os.path.exists(STATE) else {"spent": 0, "results": {}, "done": []}
     print("balance", balance(), "cap", CAP)
     elig = [l for l in leads.values() if eligible(l)]
+    hunted = apply_hunt(leads, {l["key"] for l in elig})
     print(f"{len(elig)} eligible of {len(leads)}")
 
     def hits():
@@ -186,12 +188,35 @@ def main(src, dst):
         elif rnd == "3":
             h = hits()
             run_batch("R3", [payload(l, ["contact.personal_emails"]) for l in elig if l["key"] in h], state)
+        elif rnd == "4":
+            run_batch("R4", [payload(l, ["contact.emails", "contact.personal_emails"]) for l in hunted], state)
         state["done"].append(rnd)
         json.dump(state, open(STATE, "w"), indent=1)
 
     write_back(wb, leads, state)
     wb.save(dst)
     print("saved", dst, "credits spent", state["spent"])
+
+
+def apply_hunt(leads, already):
+    """Fill names/LinkedIn/domain found by the surname hunt; return leads that became eligible."""
+    path = os.environ.get("FE_HUNT_FILE")
+    if not path or not os.path.exists(path):
+        return []
+    newly = []
+    for h in json.load(open(path)):
+        lead = leads.get(h.get("key"))
+        if not lead or lead["key"] in already or h.get("confidence") not in ("HIGH", "MEDIUM"):
+            continue
+        li = h.get("linkedin") or ""
+        lead["linkedin"] = lead["linkedin"] or (li if "/in/" in li else None)
+        lead["first"] = lead["first"] or h.get("first")
+        lead["last"] = lead["last"] or h.get("last")
+        lead["domain"] = lead["domain"] or h.get("domain")
+        if eligible(lead):
+            newly.append(lead)
+    print(f"surname hunt made {len(newly)} more leads eligible")
+    return newly
 
 
 def write_back(wb, leads, state):
