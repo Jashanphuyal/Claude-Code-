@@ -61,6 +61,19 @@ def classify(email, lead_domain):
 
 
 def req(method, path, body=None):
+    for attempt in range(6):
+        try:
+            return _req(method, path, body)
+        except urllib.error.HTTPError as e:
+            if e.code < 500 and e.code != 429:
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            pass
+        time.sleep(2 ** (attempt + 1))
+    return _req(method, path, body)
+
+
+def _req(method, path, body=None):
     data = json.dumps(body).encode() if body is not None else None
     r = urllib.request.Request(API + path, data=data, method=method,
                                headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
@@ -138,8 +151,18 @@ def run_batch(name, items, state):
         if spent + worst > CAP:
             print(f"[{name}] stopping: worst case {worst} would exceed cap ({spent}/{CAP})")
             break
-        eid = req("POST", "/contact/enrich/bulk", {"name": f"GM_Sep2026_{name}_{i // 100}", "datas": chunk})["enrichment_id"]
-        print(f"[{name}] submitted {len(chunk)} -> {eid}")
+        tag = f"{name}_{i // 100}"
+        sub = state.setdefault("submitted", {})
+        if tag in state.setdefault("collected", []):
+            continue
+        if tag in sub:
+            eid = sub[tag]
+            print(f"[{name}] resuming {tag} -> {eid}")
+        else:
+            eid = req("POST", "/contact/enrich/bulk", {"name": f"GM_Sep2026_{tag}", "datas": chunk})["enrichment_id"]
+            sub[tag] = eid
+            json.dump(state, open(STATE, "w"), indent=1)
+            print(f"[{name}] submitted {len(chunk)} -> {eid}")
         while True:
             time.sleep(15)
             res = req("GET", f"/contact/enrich/bulk/{eid}")
@@ -157,6 +180,7 @@ def run_batch(name, items, state):
             for e, s in found:
                 if e not in [x[0] for x in state["results"][k]]:
                     state["results"][k].append([e, s, name])
+        state["collected"].append(tag)
         json.dump(state, open(STATE, "w"), indent=1)
         print(f"[{name}] credits this batch {cr}, total {spent}, balance {balance()}")
     return state
