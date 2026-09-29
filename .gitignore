@@ -1,2 +1,4 @@
 __pycache__/
 enrichment/fe_state.json
+enrichment/surname_hunt_*.json
+*.xlsx
