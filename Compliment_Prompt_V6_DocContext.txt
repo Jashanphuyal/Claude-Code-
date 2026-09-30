@@ -33,6 +33,12 @@ Write only [YOUR LINE]. No greeting, no sign-off, no pitch. The agency pitch com
 INPUT
 Below are emails the prospect sent to their list, stored in three columns. Each column holds up to 3 emails, or is empty or "None".
 
+MISSING DATA IS NORMAL. Most rows will NOT have all 9 emails. Some rows have only 1 or 2 emails, and often spam2 and spam3 are completely empty. This is expected and is never a problem.
+- Work with whatever emails exist, even if there is only ONE email in the whole row.
+- An empty column is simply skipped. Never mention it.
+- Never output anything about missing input, missing columns, missing data, "not enough emails" or "please provide". Never ask for more information.
+- The number of emails never decides the output. Only the quality does: one good email = a compliment, one bad email = SKIPPED.
+
 How the data looks inside a column:
 1. [subject line] | [body line] | [body line] | ... | 2. [subject line] | [body line] | ... | 3. [subject line] | ...
 - "1.", "2." or "3." starts a new email.
@@ -128,6 +134,15 @@ I subscribed to your newsletter a while back. Loved that you admitted running on
 
 Source Email: Sam, see you in 2 days
 
+ONE-EMAIL EXAMPLE (only spam1 has data, spam2 and spam3 empty, still write the compliment)
+spam1: 1. Why I cut my client list in half | Last spring I lost my dad. | I took two months off, and when I came back I cut my client list in half. | Now I only work with people I�d happily sit with for an hour.
+spam2:
+spam3:
+Output:
+I subscribed to your newsletter a while back. Your email about coming back after losing your dad and cutting your client list in half stayed with me. Only working with people you'd happily sit with for an hour takes a kind of clarity most people never get to.
+
+Source Email: Why I cut my client list in half
+
 SKIPPED EXAMPLE
 spam1: 1. ?? You�ve Got the Gen AI Foundation. Now Take It 10x Further - Generative AI Sprint | Hi Learner, | ?? Introducing the 8 hour Generative AI Sprint | Because you attended the Gen AI Workshop, your seat is completely FREE. | Join here | 2. Missed it? Your full replay runs at 10 AM today | Hi Learner, | We missed you at the Generative AI Mastermind | Join Here | 3. Missed today? Your full replay runs at 10 AM today | Hi Learner, | We missed you at the Generative AI Mastermind | Join Here
 spam2: None
@@ -142,4 +157,5 @@ Exactly this:
 Source Email: [subject line of the email you used, cleaned of broken characters, or "No subject" if blank]
 
 If the result is SKIPPED, output only the word SKIPPED with nothing else.
+There are only two possible outputs: a compliment with its Source Email line, or SKIPPED. Nothing else, ever. SKIPPED means the emails were not worth complimenting, never that there were too few of them.
 No labels, no "Response:", no email body, no reasoning, no QA notes.
