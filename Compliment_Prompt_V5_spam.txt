@@ -7,7 +7,8 @@ CLAY VARIABLES TO SET (type "/" in the Clay prompt editor and pick the column):
 Everything else is plain text. [first name] below is only there to show where the line sits. It is NOT a variable, so leave it as is.
 
 =====================================================================
-PART A - MAIN PROMPT  (paste into the Use AI column "Prompt" field)
+MAIN PROMPT (paste into the Use AI column "Prompt" field)
+Examples are inside the prompt. Leave Clay's Examples section empty.
 =====================================================================
 
 ROLE
@@ -23,7 +24,7 @@ Hey [first name],
 My agency helps coaches like you add USD 10-25K to your MRR without ads or complex funnels.
 Totally on a pay-for-results basis.
 
-Write only [YOUR LINE]. No greeting, no sign-off.
+Write only [YOUR LINE]. No greeting, no sign-off, no pitch. The agency pitch comes right after your line, so don't mention what Shardul does for them.
 
 INPUT
 Below are emails the prospect sent to their list, stored in three columns. Each column can hold one, two or three separate emails, or be empty. In total there can be anywhere from 0 to 9 emails.
@@ -57,24 +58,25 @@ Then find one specific detail inside it: a line they wrote, a number, a moment, 
 "your email about rewriting your sales page 11 times" is a detail.
 If there is no usable email at all, return exactly: SKIPPED
 
-STEP 3: WRITE IT (2-3 sentences, 30-55 words)
-Part 1, what Shardul saw:
-"I've been reading your newsletter and loved the email about [the detail]."
-Small variations are fine ("loved the one where you...", "your email about..."). Always say newsletter or email. Never say LinkedIn, post or website.
-For serious topics don't say "loved". Use something like "your email about [detail] stayed with me."
+STEP 3: WRITE THE 3 LINES (3 sentences, 30-55 words total)
 
-Part 2, the me-factor: why this detail caught Shardul's eye, told as something concrete a reader can picture. Use the experience bank below, or Shardul's honest reaction to the detail. Match the email:
+Line 1, the opener. Always:
+"I subscribed to your newsletter a while back."
+Small variations are fine ("I've been on your newsletter for a while now."). Never say LinkedIn, post or website.
+
+Line 2, the story. One sentence naming the specific detail from the chosen email, in Shardul's own words:
+"Loved the email where you [detail]." or "Loved the one about [detail]."
+- Name the detail, not the topic.
+- Retell it simply. Quoting one short striking line they wrote is fine, copying whole sentences is not.
+- For serious topics don't say "loved". Use "Your email about [detail] stayed with me."
+
+Line 3, reaction + me-factor. Why this detail caught Shardul's eye, told as something concrete a reader can picture. Use the experience bank below, or Shardul's honest reaction to the detail. Match the email:
 - funny email: a self-deprecating bit from the bank ("lol" or one 😂 is fine)
 - story or career change: a real parallel from Shardul's life
 - tip or lesson: the exact part Shardul liked and what he'd do with it
+- client win: an honest reaction to the result, with a bank item if one really fits
 - serious or painful: no parallel, just a short, warm, honest reaction
-
-Part 3, the bridge. Always start with "And that's why I'm reaching out, to help you..." and end with a short line tying their content to revenue, like:
-- turn emails like this into revenue.
-- share more stories like this and grow your bottom line.
-- turn lessons like this into sales.
-- get more clients like [client] (only if the email names that client)
-For serious topics drop the revenue part: "to help you share more stories like this through email."
+Line 3 is the end of the line. No bridge, no pitch, no summary, no "anyway".
 
 SHARDUL'S EXPERIENCE BANK
 Only use these. Pick the one that actually connects to the detail, not the funniest one. If none connects, use an honest reaction instead of forcing one.
@@ -94,7 +96,7 @@ Only use these. Pick the one that actually connects to the detail, not the funni
 Never invent other experiences. Never claim parenting, pregnancy, being a woman, or anything Shardul can't have lived.
 
 TRUTH
-Only use facts from the chosen email. Never invent numbers, names, clients, results or feelings for the prospect. If the email doesn't name a client, don't name one.
+Only use facts from the chosen email. Never invent numbers, names, clients, results or feelings for the prospect.
 
 SERIOUS TOPICS
 Grief, health, mental health, abuse, family crisis, layoffs: no jokes, no emoji, no "same here" if Shardul hasn't lived it. React to how they handled it, warmly and simply.
@@ -112,61 +114,46 @@ NEVER
 - "Here's the thing", "It's not X, it's Y", "We've all been there", three short fragments in a row
 - vague me-factors like "I've been there too" or "I've had moments like that"
 - repeating their email back to them with praise on top
-- asking for a meeting ("let's connect", "happy to chat")
+- asking for a meeting ("let's connect", "happy to chat") or pitching the agency
 
 BAD EXAMPLES (never write like this)
-"I loved your email about building trust with your team. Your approach to leadership is so refreshing and more people need to hear this. And that's why I'm reaching out, to help you turn insights into revenue."
-Why it fails: a topic not a detail, praise instead of a reaction, no me-factor, could be sent to anyone.
+"I subscribed to your newsletter a while back. Loved your email about building trust with your team. Your approach to leadership is so refreshing and more people need to hear this."
+Why it fails: line 2 is a topic not a detail, line 3 is praise instead of a reaction, no me-factor, could be sent to anyone.
 
-"I've been reading your newsletter and loved the email about resilience. I've had moments like that too. And that's why I'm reaching out, to help you turn emails like this into revenue."
+"I subscribed to your newsletter a while back. Loved the email about resilience. I've had moments like that too."
 Why it fails: "resilience" is a topic, "moments like that" is a vague me-factor.
 
-OUTPUT
-Only the finished compliment, ready to paste. Or SKIPPED. No labels, no nugget summary, no explanation, no quotes.
+GOOD EXAMPLES (this is the bar. Learn the pattern, never copy the wording)
 
-
-=====================================================================
-PART B - EXAMPLES  (paste into Configure tab > Examples > Add examples)
-One entry per example: the three columns go in as the input, the line goes in as the output.
-These inputs are made up. Swap in real rows once you have lines you love.
-=====================================================================
-
-EXAMPLE 1 (story buried in a column with a promo; one column empty)
-Input:
+Example 1
 spam1: Email 1: Black Friday: 40% off my coaching program, ends Sunday. | Email 2: Eight years ago I moved to Buenos Aires with no Spanish and no work visa. I couldn't get a normal job, so I started coaching people online just to pay rent. That "temporary" plan is now my whole business.
 spam2: Please confirm your subscription.
 spam3:
-Output:
-I've been reading your newsletter and loved the one about moving to Buenos Aires with no Spanish and no work visa. I built my agency from Nepal with that same make it work with what you've got mindset. And that's why I'm reaching out, to help you turn stories like this into revenue.
+Output: I subscribed to your newsletter a while back. Loved the one where you moved to Buenos Aires with no Spanish and no work visa and started coaching online just to pay rent. I built my agency from Nepal with that same make it work with what you've got mindset, so that one felt very familiar.
 
-EXAMPLE 2 (funny beats a tip)
-Input:
+Example 2
 spam1: Email 1: Most coaches invoice at the end of the month. I send mine the same hour the client says yes. | Email 2: Doors close Friday for the mastermind.
 spam2: I spent three months "researching" my niche before I booked a single sales call. Color-coded spreadsheets. Two notebooks. Zero clients. Turns out research was just fear in a nice outfit.
 spam3: New podcast episode is out.
-Output:
-I've been reading your newsletter and loved the email where you said research was just fear in a nice outfit lol. I once watched hours of YouTube trading videos and never placed a single trade 😂 And that's why I'm reaching out, to help you share more stories like this and grow your bottom line.
+Output: I subscribed to your newsletter a while back. Loved the email where you spent three months on color-coded spreadsheets before booking a single call and called research fear in a nice outfit lol. I once watched hours of YouTube trading videos and never placed a single trade 😂
 
-EXAMPLE 3 (client win, only one email in total)
-Input:
+Example 3
 spam1:
 spam2: My client Maria came to me burned out, working 70-hour weeks. Six months later she runs her practice 4 days a week and just had her best quarter ever.
 spam3: None
-Output:
-I've been reading your newsletter and loved the email about Maria going from 70-hour weeks to a 4-day week and her best quarter ever. Early on all the agency work landed on my plate too, so that one made me kinda jealous haha. And that's why I'm reaching out, to help you get more clients like Maria.
+Output: I subscribed to your newsletter a while back. Loved the email about Maria going from 70-hour weeks to a 4-day week and her best quarter ever. Early on all the agency work landed on my plate too, so honestly that one made me kinda jealous haha.
 
-EXAMPLE 4 (serious)
-Input:
+Example 4
 spam1: Email 1: Last spring I lost my dad. I took two months off, and when I came back I cut my client list in half. Now I only work with people I'd happily sit with for an hour. | Email 2: My summer program opens Monday.
 spam2:
 spam3: Free workshop Thursday, save your seat.
-Output:
-I've been reading your newsletter and your email about coming back after losing your dad and cutting your client list in half stayed with me. Only working with people you'd happily sit with for an hour takes real clarity. And that's why I'm reaching out, to help you share more stories like this through email.
+Output: I subscribed to your newsletter a while back. Your email about coming back after losing your dad and cutting your client list in half stayed with me. Only working with people you'd happily sit with for an hour takes a kind of clarity most people never get to.
 
-EXAMPLE 5 (nothing usable)
-Input:
+Example 5
 spam1: Email 1: Welcome to the list! | Email 2: Doors close Friday for my mastermind. Grab your spot here.
 spam2: None
 spam3: Webinar tomorrow at 2pm EST, link inside.
-Output:
-SKIPPED
+Output: SKIPPED
+
+OUTPUT
+Only the finished 3 lines as one paragraph, ready to paste. Or SKIPPED. No labels, no nugget summary, no explanation, no quotes.
