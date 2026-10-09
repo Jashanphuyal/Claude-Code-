@@ -83,6 +83,7 @@ Read it back as the prospect would: a busy coach skimming 200 cold emails.
 - Always point to the source (which email, which page, which post) at the start of the line.
 - Reference ONE idea from ONE source. Never stack two compliments.
 - Quote or closely paraphrase their actual words or detail at least once. Specificity is what proves you read it.
+- Write it raw and casual, like Shardul typed it himself in one go, not like it was proofread. Lowercase page names and common words ("your about page", "your mission page", "art classes", not "your About page" or "Our Mission page"). Lowercase quoted lines unless they start with a name. Numbers as digits ("3 tattoo artists", "4 generations"). Casual words are fine ("comfy", "haha", "aha"). Only capitalize the first word, the prospect's brand and product names, people's names and words that are always capitalized (like Christian). Never fake typos.
 - No pitch, no ask, no transition into the offer. The writer after you handles that.
 - Never fabricate anything about the prospect, the email or Shardul's life.
 </constraints>
