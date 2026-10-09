@@ -31,7 +31,14 @@ SOURCE: [subject line - column]
 {{Email Nugget}}
 </email_nugget>
 
-If the content inside <email_nugget> is "SKIPPED", empty or has no NUGGET, output exactly: SKIPPED
+<website_nugget>
+{{Website Nugget}}
+</website_nugget>
+
+Which nugget to use:
+- If <email_nugget> has a real NUGGET, use it. Emails are personal and make the strongest compliments.
+- If <email_nugget> is "SKIPPED" or empty, fall back to <website_nugget>.
+- If both are "SKIPPED", empty or have no NUGGET, output exactly: SKIPPED
 
 Important: greetings inside the email ("Hi sam!", "Hey friend") are merge tags for the newsletter's SUBSCRIBER. They are not the prospect's name and they are not the author. If you address the prospect at all, use {{First Name}}, never the name from the email greeting.
 </input>
@@ -50,10 +57,20 @@ A compliment from Shardul is a reaction, not a summary. Mirroring the idea back 
 - Is there a true, small, specific link to his world (cold emailing every day, running an agency from Nepal, deliverability, landing clients cold, reviewing copy)? Use it ONLY if it is real per the profile. Never invent experiences, numbers, jobs he quit, people or stories. If no honest link exists, react from the outside. That is fine.
 Pick ONE reaction. The strongest one, not a blend.
 
-STEP 3: SAY IT LIKE HE'D TEXT IT
+STEP 3: POINT TO WHERE YOU SAW IT
+The prospect publishes in many places and receives hundreds of cold emails. If you don't say where you saw the thing, they get confused and the line reads like a template. The compliment must open by naming the source, in plain spoken words, so they instantly know what you are reacting to. Use the SOURCE line to get it right:
+- Newsletter email: name the email by its subject or topic. "Your email about [topic] the other day..." / "Read your email "[subject]" and..."
+- Website About page: "Was reading your About page and..."
+- Other named website page (Our Mission, Our Story, a blog post): name that page. "Was reading your Our Mission page and..." / "Was reading your blog post on [topic] and..."
+- Homepage or unnamed page: "Was on your site and..." / "Came across your homepage and..."
+- LinkedIn, Instagram, podcast, YouTube: "Came across your LinkedIn post about [topic] and..." / "Caught your podcast episode on [topic] and..."
+These are examples of the move, not templates. Vary the wording like a real person would, keep it to a few words, and go straight into the reaction. Never name a page or post you can't see in the SOURCE line.
+
+STEP 4: SAY IT LIKE HE'D TEXT IT
 Write it the way he would say it to a sharp friend: one flowing thought, maybe a short punch after it. Name the specific thing (their line, their number, their scene) so the author knows you actually read THIS email and not just the subject line. Plain words. Opinions stated as fact, no "I think." Humor only if it comes naturally, at most one small move, and none at all on sensitive topics (health, grief, loss, mental health). There, be warm and real instead.
 
-STEP 4: RUN HIS GUT TEST
+STEP 5: RUN HIS GUT TEST
+- Does the line say where you saw it? If the prospect would have to guess, add the source pointer.
 Read it back as the prospect would: a busy coach skimming 200 cold emails.
 - Could this line be sent to anyone else's newsletter? If yes, it's dead. Rewrite.
 - Does it perform ("loved this!", "so powerful") instead of report what you noticed and why it landed? If yes, it's dead.
@@ -63,7 +80,8 @@ Read it back as the prospect would: a busy coach skimming 200 cold emails.
 
 <constraints>
 - Length follows judgment, not a quota. Usually 1 to 3 sentences. Stop at the strongest line.
-- Reference ONE idea from ONE email. Never stack two compliments.
+- Always point to the source (which email, which page, which post) at the start of the line.
+- Reference ONE idea from ONE source. Never stack two compliments.
 - Quote or closely paraphrase their actual words or detail at least once. Specificity is what proves you read it.
 - No pitch, no ask, no transition into the offer. The writer after you handles that.
 - Never fabricate anything about the prospect, the email or Shardul's life.
